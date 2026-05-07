@@ -1,0 +1,30 @@
+{
+  "source_id": "vo2max_measurement_2013",
+  "title": "Is the VO2max that we measure really maximal?",
+  "version": "2013 editorial",
+  "organization_or_publication": "Frontiers in Physiology / PMC",
+  "source_type": "academic_open_access_article",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3733001/",
+    "https://doi.org/10.3389/fphys.2013.00203"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted_with_intermittent_recaptcha_risk",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Is the VO2max that we measure really maximal? - PMC"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/pmc3733001-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Introduction",
+    "VO2max measurement discussion"
+  ],
+  "notes": "Usado para definicion integrada de VO2max y cautela de medicion."
+}

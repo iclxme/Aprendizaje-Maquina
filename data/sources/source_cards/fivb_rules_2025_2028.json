@@ -1,0 +1,32 @@
+{
+  "source_id": "fivb_rules_2025_2028",
+  "title": "FIVB Official Volleyball Rules 2025-2028",
+  "version": "2025-2028 EN v05",
+  "organization_or_publication": "Federation Internationale de Volleyball (FIVB)",
+  "source_type": "official_rulebook_pdf",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://www.fivb.com/volleyball/the-game/official-volleyball-rules/",
+    "https://www.fivb.com/wp-content/uploads/2025/01/FIVB-Volleyball_Rules2025_2028-EN-v05.pdf"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Official Volleyball Rules – FIVB"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/fivb-rules-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Rule 19 The Libero Player",
+    "Rule 19.1 Designation of the Libero",
+    "Rule 19.2 Equipment",
+    "Rule 19.3 Actions involving the Libero"
+  ],
+  "notes": "El PDF oficial fue verificado desde la pagina FIVB y usado para restricciones del libero."
+}

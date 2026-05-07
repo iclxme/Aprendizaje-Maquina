@@ -1,0 +1,34 @@
+{
+  "source_id": "itf_rules_tennis_2026",
+  "title": "ITF Rules of Tennis",
+  "version": "2026",
+  "organization_or_publication": "International Tennis Federation (ITF)",
+  "source_type": "official_rulebook_pdf",
+  "language": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "canonical_urls": [
+    "https://www.itftennis.com/en/about-us/governance/rules-and-regulations/",
+    "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Tennis Rules and Regulations | ITF"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/itf-rules-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Rule 5 Score in a Game",
+    "Rule 6 Score in a Set",
+    "Rule 7 Score in a Match",
+    "Appendix VI Alternative Procedures and Scoring Methods"
+  ],
+  "notes": "La pagina oficial confirma enlaces 2026 en ingles, frances y espanol. El PDF directo responde pero Playwright no expone texto completo; se verifico tambien con visor PDF indexado."
+}

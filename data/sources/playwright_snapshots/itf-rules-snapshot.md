@@ -1,0 +1,283 @@
+- generic [active] [ref=e1]:
+  - alertdialog "Cookie Consent Prompt" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]
+      - generic [ref=e8]
+  - generic [ref=e14]:
+    - heading "Sign Up" [level=2] [ref=e15]
+    - paragraph [ref=e16]: Register to receive unrivalled access to the world of tennis
+    - list [ref=e18]:
+      - listitem [ref=e19]
+      - listitem [ref=e20]
+      - listitem [ref=e21]
+      - listitem [ref=e22]
+      - listitem [ref=e23]
+      - listitem [ref=e24]
+    - table [ref=e323]:
+      - rowgroup [ref=e324]
+  - banner [ref=e28]:
+    - navigation [ref=e30]:
+      - generic [ref=e31]
+    - navigation [ref=e57]:
+      - link "Home" [ref=e59] [cursor=pointer]:
+        - /url: /en/
+      - list [ref=e60]
+      - link "Shop" [ref=e78] [cursor=pointer]:
+        - /url: https://global.tennis-point.com/?utm_medium=federation&utm_source=ITF&utm_campaign=shopbutton&utm_content=shopbutton&utm_term=TP_ROW
+    - navigation [ref=e80]:
+      - list [ref=e81]
+  - main [ref=e89]:
+    - iframe [ref=e93]:
+      - link [ref=f23e2] [cursor=pointer]:
+        - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsvohOy51heclL2goi9SQougu8GObJdVFJzjIzr5NVoCRgYu8I88Vf25JFEfn2SY9fGky6mHtVI34ANIT1XteQiSntrzJi7-p9edrNQujlaY0kbfIcUThAmrfCm0-hzqe6p-C-8yFgj0_AhpbKEKeua0ZYlL4r5XZoxcA5yXdsIzxZbwb9GneLLF9e-pkGdgxfBHuyxGeEKs5aJzRZxB9qzffVzPNbbrlMKOM_sAVb-zy6-qXvZi-jh6C9Jek7S8V1tg_hKwYjXxt4kXCmAYEvqcYOy_AyN5mQUeXk5OgTwkECdMVIRYsG5wHXrVvv_Xa7jXXIPrEtWh4nTjd_M6NOcdRIeBuCbM8KacpUd_8pI7q5zAgh8Dj9uj5e31TyzbSNK6HLRlFtpJv2gumS5dc1UxeCHE_x1DboP0G5XBWpTzXN7_IW-U9g&sai=AMfl-YS1Va0tt1IJ1RDW0z2T8L5b75XaFp8aVjHaPTnQys8zAOz_wRALn4JDhDo_LtjRCDEl3Xd1lR4zFG8h8ZleyWNQtb5eRHj5w-JimQukMtn-hPuLq1vhmbffgDA6e5tqB-6QekwHKen_ZUrhkfQaN90zunkDvGvW8ZbLgFd2YwgttQmAZ5aoWsss9obrEOJ_xyioG_zomR_9h-KUT-EZAfDUlzHgYXnFH2krTXhqrhW3I9wScC8vOPCSVGEU1Gf9wGWDljTc9FAQuuPSwoIIKKHceLbpAWfDHSlph0oivEcGpbB45_TKPWk1mEGKMiLHKRh59O7O&sig=Cg0ArKJSzNw201QtB-ye&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://apps.apple.com/us/app/world-tennis-tour-live/id1040407958
+    - generic [ref=e94]:
+      - strong [ref=e99]: Rules and Regulations
+      - generic [ref=e102]
+      - list [ref=e107]
+      - generic [ref=e120]
+      - separator [ref=e198]
+      - generic [ref=e200]
+  - contentinfo [ref=e216]:
+    - generic [ref=e218]:
+      - paragraph [ref=e219]: Commercial Partners
+      - list [ref=e220]
+      - link "Discover More" [ref=e223] [cursor=pointer]:
+        - /url: /en/about-us/organisation/commercial-partners/
+    - generic [ref=e226]:
+      - generic [ref=e227]
+      - generic [ref=e242]
+      - generic [ref=e249]
+      - generic [ref=e258]
+      - generic [ref=e273]
+    - generic [ref=e297]:
+      - list [ref=e298]
+      - generic [ref=e317]: Copyright © 2026 International Tennis Federation
+  - button "Back to top" [ref=e319] [cursor=pointer]:
+    - generic: Back to top
+  - generic:
+    - option "Afghanistan"
+    - option "Albania"
+    - option "Algeria"
+    - option "USA"
+    - option "Andorra"
+    - option "Angola"
+    - option "Anguilla"
+    - option "Antigua & Barbuda"
+    - option "Argentina"
+    - option "Armenia"
+    - option "Aruba"
+    - option "Australia"
+    - option "Austria"
+    - option "Azerbaijan"
+    - option "Bahamas"
+    - option "Bahrain"
+    - option "Bangladesh"
+    - option "Barbados"
+    - option "Belarus"
+    - option "Belgium"
+    - option "Belize"
+    - option "Benin"
+    - option "Bermuda"
+    - option "Bhutan"
+    - option "Bolivia"
+    - option "Bonaire"
+    - option "Bosnia and Herzegovina"
+    - option "Brazil"
+    - option "Great Britain"
+    - option "Brunei"
+    - option "Bulgaria"
+    - option "Burkina Faso"
+    - option "Burundi"
+    - option "Cambodia"
+    - option "Cameroon"
+    - option "Canada"
+    - option "Cape Verde"
+    - option "Cayman Islands"
+    - option "Central African Republic"
+    - option "Chad"
+    - option "Chile"
+    - option "China, P.R."
+    - option "Colombia"
+    - option "Comoros"
+    - option "Congo, Dem. Rep."
+    - option "Congo"
+    - option "Cook Islands"
+    - option "Costa Rica"
+    - option "Croatia"
+    - option "Cuba"
+    - option "Curacao"
+    - option "Cyprus"
+    - option "Czechia"
+    - option "Denmark"
+    - option "Djibouti"
+    - option "Dominica"
+    - option "Dominican Republic"
+    - option "Netherlands"
+    - option "Ecuador"
+    - option "Egypt"
+    - option "United Arab Emirates"
+    - option "Equatorial Guinea"
+    - option "Eritrea"
+    - option "Estonia"
+    - option "Ethiopia"
+    - option "Fiji"
+    - option "Philippines"
+    - option "Finland"
+    - option "France"
+    - option "French Guiana"
+    - option "French Polynesia"
+    - option "Gabon"
+    - option "Gambia"
+    - option "Georgia"
+    - option "Germany"
+    - option "Ghana"
+    - option "Gibraltar"
+    - option "Greece"
+    - option "Greenland"
+    - option "Grenada"
+    - option "Guadeloupe"
+    - option "Guam"
+    - option "Guatemala"
+    - option "Guinea-Bissau"
+    - option "Guinea-Conakry"
+    - option "Guyana"
+    - option "Haiti"
+    - option "Honduras"
+    - option "Hong Kong, China"
+    - option "Hungary"
+    - option "Iceland"
+    - option "Kiribati"
+    - option "India"
+    - option "Indonesia"
+    - option "Iran"
+    - option "Iraq"
+    - option "Ireland"
+    - option "Israel"
+    - option "Italy"
+    - option "Cote D'Ivoire"
+    - option "Jamaica"
+    - option "Japan"
+    - option "Jordan"
+    - option "Kazakhstan"
+    - option "Kenya"
+    - option "St. Kitts & Nevis"
+    - option "Kosovo"
+    - option "Kuwait"
+    - option "Kyrgyzstan"
+    - option "Laos"
+    - option "Latvia"
+    - option "Lebanon"
+    - option "Liberia"
+    - option "Libya"
+    - option "Liechtenstein"
+    - option "Lithuania"
+    - option "Luxembourg"
+    - option "Macau"
+    - option "North Macedonia"
+    - option "Madagascar"
+    - option "Malawi"
+    - option "Malaysia"
+    - option "Maldives"
+    - option "Mali"
+    - option "Malta"
+    - option "Marshall Islands"
+    - option "Martinique"
+    - option "Mauritania"
+    - option "Mauritius"
+    - option "Mexico"
+    - option "Micronesia, Fed. States"
+    - option "Moldova"
+    - option "Monaco"
+    - option "Mongolia"
+    - option "Montenegro"
+    - option "Montserrat"
+    - option "Morocco"
+    - option "Lesotho"
+    - option "Botswana"
+    - option "Mozambique"
+    - option "Myanmar"
+    - option "Namibia"
+    - option "Nauru"
+    - option "Nepal"
+    - option "New Caledonia"
+    - option "New Zealand"
+    - option "Nicaragua"
+    - option "Nigeria"
+    - option "Niger"
+    - option "Vanuatu"
+    - option "Norfolk Island"
+    - option "Korea, D.P.R."
+    - option "Northern Mariana Islands"
+    - option "Norway"
+    - option "Oman"
+    - option "Pacific Oceania"
+    - option "Pakistan"
+    - option "Palau"
+    - option "Palestine"
+    - option "Panama"
+    - option "Papua New Guinea"
+    - option "Paraguay"
+    - option "Peru"
+    - option "Poland"
+    - option "Portugal"
+    - option "Puerto Rico"
+    - option "Qatar"
+    - option "Reunion"
+    - option "Romania"
+    - option "Russia"
+    - option "Rwanda"
+    - option "St. Lucia"
+    - option "St. Vincent & the Grenadines"
+    - option "El Salvador"
+    - option "American Samoa"
+    - option "Samoa"
+    - option "San Marino"
+    - option "Sao Tome & Principe"
+    - option "Saudi Arabia"
+    - option "Senegal"
+    - option "Serbia"
+    - option "Seychelles"
+    - option "Sierra Leone"
+    - option "Singapore"
+    - option "Sint Maarte"
+    - option "Slovakia"
+    - option "Slovenia"
+    - option "Solomon Islands"
+    - option "Somalia"
+    - option "South Africa"
+    - option "Korea, Rep."
+    - option "Spain"
+    - option "Sri Lanka"
+    - option "Sudan"
+    - option "Surinam"
+    - option "eSwatini"
+    - option "Sweden"
+    - option "Switzerland"
+    - option "Syria"
+    - option "Tahiti"
+    - option "Chinese Taipei"
+    - option "Tajikistan"
+    - option "Tanzania"
+    - option "Thailand"
+    - option "Timor-Leste"
+    - option "Togo"
+    - option "Tonga"
+    - option "Trinidad & Tobago"
+    - option "Tunisia"
+    - option "Turkiye"
+    - option "Turkmenistan"
+    - option "Turks & Caicos Islands"
+    - option "Tuvalu"
+    - option "Uganda"
+    - option "Ukraine"
+    - option "Uruguay"
+    - option "Uzbekistan"
+    - option "Venezuela"
+    - option "Vietnam"
+    - option "British Virgin Islands"
+    - option "US Virgin Islands"
+    - option "Yemen"
+    - option "Zambia"
+    - option "Zimbabwe"
+    - option "Female"
+    - option "Male"

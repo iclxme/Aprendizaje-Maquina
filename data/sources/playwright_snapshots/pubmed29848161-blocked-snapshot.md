@@ -1,0 +1,36 @@
+- generic [ref=e1]:
+  - link "Skip to main page content" [ref=e2] [cursor=pointer]:
+    - /url: "#article-details"
+  - generic [ref=e6]:
+    - img "U.S. flag" [ref=e7]
+    - paragraph [ref=e8]: An official website of the United States government
+    - button "Here's how you know" [ref=e9] [cursor=pointer]
+  - banner [ref=e10]:
+    - generic [ref=e12]
+  - navigation "access keys":
+    - link "Access keys" [ref=e18] [cursor=pointer]:
+      - /url: https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys
+    - link "NCBI Homepage" [ref=e19] [cursor=pointer]:
+      - /url: https://www.ncbi.nlm.nih.gov
+    - link "MyNCBI Homepage" [ref=e20] [cursor=pointer]:
+      - /url: /myncbi/
+    - link "Main Content" [ref=e21] [cursor=pointer]:
+      - /url: "#maincontent"
+    - link "Main Navigation" [ref=e22] [cursor=pointer]:
+      - /url: "#"
+  - navigation "Main page content below"
+  - search [ref=e23]:
+    - generic [ref=e24]
+  - generic [ref=e39]:
+    - generic [ref=e42]
+    - generic: "* * * *"
+  - generic [ref=e52]:
+    - complementary [ref=e53]
+    - main [ref=e89]
+    - option "AMA"
+    - option "APA"
+    - option "MLA"
+    - option "NLM" [selected]
+  - generic [ref=e279]:
+    - complementary "Links to NCBI Literature Resources" [ref=e280]
+    - contentinfo [ref=e289]

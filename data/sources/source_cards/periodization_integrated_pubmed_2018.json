@@ -1,0 +1,30 @@
+{
+  "source_id": "periodization_integrated_pubmed_2018",
+  "title": "An Integrated, Multifactorial Approach to Periodization for Optimal Performance in Individual and Team Sports",
+  "version": "2018 review abstract",
+  "organization_or_publication": "International Journal of Sports Physiology and Performance / PubMed",
+  "source_type": "academic_abstract_indexed",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://pubmed.ncbi.nlm.nih.gov/29848161/",
+    "https://doi.org/10.1123/ijspp.2018-0093"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "partial_abstract_indexed",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Revisando tu navegador con reCAPTCHA",
+      "An Integrated, Multifactorial Approach to Periodization for Optimal Performance in Individual and Team Sports - PubMed"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/pubmed29848161-blocked-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "PubMed abstract"
+  ],
+  "notes": "Se registra como acceso parcial: Playwright observo una pantalla reCAPTCHA antes de mostrar metadata; no se uso para detalles no visibles."
+}

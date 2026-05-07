@@ -1,0 +1,30 @@
+{
+  "source_id": "sprint_acceleration_2015",
+  "title": "Selected Determinants of Acceleration in the 100m Sprint",
+  "version": "2015 article",
+  "organization_or_publication": "Journal of Human Kinetics / PMC",
+  "source_type": "academic_open_access_article",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415826/"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Selected Determinants of Acceleration in the 100m Sprint - PMC"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/pmc4415826-sprint-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Introduction",
+    "Acceleration phase",
+    "Stride length/frequency and strength"
+  ],
+  "notes": "Usado como complemento abierto para fases y aceleracion del 100 m."
+}

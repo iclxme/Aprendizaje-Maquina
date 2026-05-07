@@ -1,0 +1,42 @@
+{
+  "source_id": "ifab_laws_2025_26",
+  "title": "Laws of the Game 2025/26",
+  "version": "2025/26",
+  "organization_or_publication": "The International Football Association Board (IFAB)",
+  "source_type": "official_rulebook_html",
+  "language": [
+    "en",
+    "de",
+    "es",
+    "fr"
+  ],
+  "canonical_urls": [
+    "https://www.theifab.com/laws/latest/the-players/",
+    "https://www.theifab.com/laws/latest/offside/",
+    "https://www.theifab.com/laws/latest/fouls-and-misconduct/"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Law 3 - The Players | IFAB",
+      "Law 11 - Offside | IFAB",
+      "Law 12 - Fouls and Misconduct | IFAB"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/ifab-law3-snapshot.md",
+      "data/sources/playwright_snapshots/ifab-law11-snapshot.md",
+      "data/sources/playwright_snapshots/ifab-law12-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Law 3.1 Number of players",
+    "Law 3.2 Number of substitutions",
+    "Law 3.3 Substitution procedure",
+    "Law 3.4 Changing the goalkeeper",
+    "Law 11 Offside",
+    "Law 12 Fouls and Misconduct"
+  ],
+  "notes": "La landing /laws/latest/ fue indicada como riesgosa en el contrato; se usaron URLs especificas verificadas."
+}

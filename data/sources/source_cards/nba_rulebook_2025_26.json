@@ -1,0 +1,38 @@
+{
+  "source_id": "nba_rulebook_2025_26",
+  "title": "2025-26 NBA Rulebook",
+  "version": "2025-26",
+  "organization_or_publication": "NBA Official",
+  "source_type": "official_rulebook_html_pdf",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://official.nba.com/rulebook/",
+    "https://official.nba.com/rule-no-5-scoring-and-timing/",
+    "https://official.nba.com/rule-no-7-24-second-clock/",
+    "https://ak-static.cms.nba.com/wp-content/uploads/sites/4/2025/10/Official-2025-26-NBA-Playing-Rules.pdf"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "NBA Rulebook | NBA Official",
+      "RULE NO. 5: Scoring and Timing | NBA Official",
+      "RULE NO. 7: Shot Clock | NBA Official"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/nba-rulebook-snapshot.md",
+      "data/sources/playwright_snapshots/nba-rule5-snapshot.md",
+      "data/sources/playwright_snapshots/nba-rule7-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Rule No. 5 Section I Scoring",
+    "Rule No. 5 Section II Timing",
+    "Rule No. 5 Section IV Tie Score - Overtime",
+    "Rule No. 7 Shot Clock"
+  ],
+  "notes": "El home enlaza al PDF 2025-26 y las reglas HTML se usaron como fuente primaria para extraccion."
+}

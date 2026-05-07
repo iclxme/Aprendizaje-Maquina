@@ -1,0 +1,7 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e6]
+    - generic [ref=e19]
+    - contentinfo [ref=e491]
+  - region "Cookie banner" [active] [ref=e512]:
+    - alertdialog "Privacy" [ref=e513]

@@ -1,0 +1,29 @@
+{
+  "source_id": "sage_science_of_speed_2011_blocked",
+  "title": "The Science of Speed: Determinants of Performance in the 100 m Sprint",
+  "version": "2011 article",
+  "organization_or_publication": "International Journal of Sports Science & Coaching / SAGE",
+  "source_type": "academic_article_blocked",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://journals.sagepub.com/doi/10.1260/1747-9541.6.3.479",
+    "https://doi.org/10.1260/1747-9541.6.3.479"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "blocked_cloudflare_or_browser_check",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Un momento…"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/sage-sprint-blocked-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Abstract indexed by search only"
+  ],
+  "notes": "No se uso como fuente primaria de contenido por bloqueo. Se aplico fallback academico abierto PMC para sprint."
+}

@@ -1,0 +1,28 @@
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - banner [ref=e7]
+      - navigation [ref=e11]
+  - main [ref=e36]:
+    - generic [ref=e38]:
+      - link "Rulebook Home" [ref=e39] [cursor=pointer]:
+        - /url: https://official.nba.com/rulebook/
+      - text: "> RULE NO. 5: Scoring and Timing"
+    - generic [ref=e40]:
+      - generic [ref=e41]
+      - generic [ref=e80]
+  - navigation [ref=e203]:
+    - generic [ref=e204]:
+      - list [ref=e206]
+      - list [ref=e220]
+      - list [ref=e232]
+  - contentinfo [ref=e241]:
+    - generic [ref=e242]:
+      - paragraph [ref=e243]: Copyright © 2026 NBA Media Ventures, LLC. All rights reserved. No portion of NBA.com may be duplicated, redistributed or manipulated in any form.
+      - paragraph [ref=e244]
+  - region "Cookie banner" [active] [ref=e248]:
+    - dialog "We Care About Your Privacy" [ref=e249]:
+      - generic [ref=e251]
+      - button "Close" [ref=e267] [cursor=pointer]

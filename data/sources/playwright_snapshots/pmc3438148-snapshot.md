@@ -1,0 +1,18 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - region "Official website of the United States government" [ref=e3]:
+    - generic [ref=e6]
+  - banner [ref=e12]:
+    - generic [ref=e14]
+    - navigation "Primary navigation" [ref=e22]
+  - region "PMC Header with search box" [ref=e24]:
+    - generic [ref=e25]
+  - generic [ref=e44]:
+    - generic [ref=e46]
+    - region "Article resources and navigation" [ref=e939]
+  - contentinfo [ref=e977]:
+    - generic [ref=e978]
+    - generic [ref=e996]
+  - button "Tell us what you think!" [ref=e1038] [cursor=pointer]:
+    - img "Tell us what you think!" [ref=e1039]

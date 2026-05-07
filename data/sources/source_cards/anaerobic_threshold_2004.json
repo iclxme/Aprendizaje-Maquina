@@ -1,0 +1,31 @@
+{
+  "source_id": "anaerobic_threshold_2004",
+  "title": "Anaerobic Threshold: Its Concept and Role in Endurance Sport",
+  "version": "2004 review",
+  "organization_or_publication": "Malaysian Journal of Medical Sciences / PMC",
+  "source_type": "academic_open_access_article",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3438148/"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Anaerobic Threshold: Its Concept and Role in Endurance Sport - PMC"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/pmc3438148-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Abstract",
+    "Anaerobic Threshold Concept",
+    "Endurance Performance and Anaerobic Threshold",
+    "Conclusions"
+  ],
+  "notes": "Usado para threshold/lactate threshold y relacion con rendimiento endurance."
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "periodization_trustworthy_2017",
+  "title": "Is Empirical Research on Periodization Trustworthy? A Comprehensive Review of Conceptual and Methodological Issues",
+  "version": "2017 article",
+  "organization_or_publication": "Journal of Sports Science & Medicine / PMC",
+  "source_type": "academic_open_access_article",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5358028/"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted_with_intermittent_recaptcha_risk",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Is Empirical Research on Periodization Trustworthy? A Comprehensive Review of Conceptual and Methodological Issues - PMC"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/pmc5358028-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Introduction",
+    "Conceptual issues",
+    "Key points"
+  ],
+  "notes": "Playwright cargo el articulo; otras rutas indexadas pueden mostrar reCAPTCHA. Usado para cautelas metodologicas."
+}

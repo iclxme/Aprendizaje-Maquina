@@ -1,0 +1,1246 @@
+- article [ref=e56]:
+  - region "Article citation and metadata" [ref=e57]:
+    - generic [ref=e59]:
+      - button "▸ Front Physiol" [ref=e61] [cursor=pointer]
+      - text: ". 2019 Jan 23;10:13. doi:"
+      - link "External, opens in a new tab. 10.3389/fphys.2019.00013" [ref=e62] [cursor=pointer]:
+        - /url: https://doi.org/10.3389/fphys.2019.00013
+    - generic [ref=e64]:
+      - 'heading "Periodized Resistance Training for Enhancing Skeletal Muscle Hypertrophy and Strength: A Mini-Review" [level=1] [ref=e66]'
+      - generic [ref=e67]:
+        - link "Jonathan W Evans" [ref=e68] [cursor=pointer]:
+          - /url: https://pubmed.ncbi.nlm.nih.gov/?term="Evans%20JW"[Author]
+        - superscript [ref=e69]: 1,
+        - superscript [ref=e70]: "*"
+      - list [ref=e71]:
+        - listitem [ref=e72]:
+          - button "▸ Author information" [ref=e73] [cursor=pointer]
+        - listitem [ref=e74]:
+          - button "▸ Article notes" [ref=e75] [cursor=pointer]
+        - listitem [ref=e76]:
+          - button "▸ Copyright and License information" [ref=e77] [cursor=pointer]
+      - generic [ref=e78]:
+        - text: "PMCID: PMC6351492 PMID:"
+        - link "30728780" [ref=e79] [cursor=pointer]:
+          - /url: https://pubmed.ncbi.nlm.nih.gov/30728780/
+  - region "Article content" [ref=e80]:
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - heading "Abstract" [level=2] [ref=e83]: Abstract
+        - paragraph [ref=e84]: Prescribing the proper resistance training (RT) program is critical to optimize skeletal muscle hypertrophy and strength. Periodization is a strategy that entails planned manipulations of training variables to maximize fitness adaptations while minimizing the risk of overtraining. Multiple meta-analyses have shown periodized RT to be superior to non-periodized RT for enhancing muscular strength. These findings are consistent irrespective of training status or training volume. Both the linear model and the undulating model are effective for enhancing strength, although a greater benefit might be achieved through the undulating model. Despite the suggested superiority of periodized RT for strength development, some authors suggest that this might be a consequence of the study designs employed rather than the nature of periodized training. In addition, several limitations exist in the periodization literature, making it difficult to accurately assess the efficacy of periodized RT. With regard to enhancing skeletal muscle hypertrophy, both the undulating model and the linear model appear equally effective; however, this conclusion can only be generalized to untrained populations. When comparing periodized RT to non-periodized RT programs, the research is unclear on whether periodized RT is necessary to maximize skeletal muscle hypertrophy.
+        - paragraph [ref=e86]:
+          - strong [ref=e87]: "Keywords:"
+          - text: periodization, resistance training, muscle hypertrophy, strength, exercise
+      - generic [ref=e88]:
+        - heading "Introduction" [level=2] [ref=e89]: Introduction
+        - paragraph [ref=e90]:
+          - text: Muscular strength can be defined as a muscle’s ability to exert force on an external resistance (
+          - link "Suchomel et al., 2018" [ref=e91] [cursor=pointer]:
+            - /url: "#B53"
+          - text: ). While muscular strength is suggested to be a critical attribute for many athletic disciplines (
+          - link "Suchomel et al., 2016" [ref=e92] [cursor=pointer]:
+            - /url: "#B54"
+          - text: ), it is also an essential component of functionality in daily living (
+          - link "Kraemer et al., 2002" [ref=e93] [cursor=pointer]:
+            - /url: "#B28"
+          - text: ;
+          - link "Hunter et al., 2004" [ref=e94] [cursor=pointer]:
+            - /url: "#B22"
+          - text: ;
+          - link "Westcott, 2012" [ref=e95] [cursor=pointer]:
+            - /url: "#B58"
+          - text: ). Young, old, and athletic individuals can utilize resistance training (RT) as a means to improve strength (
+          - link "Peterson et al., 2004" [ref=e96] [cursor=pointer]:
+            - /url: "#B39"
+          - text: ;
+          - link "Faigenbaum et al., 2009" [ref=e97] [cursor=pointer]:
+            - /url: "#B13"
+          - text: ;
+          - link "Borde et al., 2015" [ref=e98] [cursor=pointer]:
+            - /url: "#B4"
+          - text: ), and the magnitude of strength improvement is influenced by the structure of the training program (
+          - link "American College of Sports Medicine, 2009" [ref=e99] [cursor=pointer]:
+            - /url: "#B2"
+          - text: ). In addition to increasing muscular strength, RT is used by many individuals as a means to enhance skeletal muscle hypertrophy (i.e., enlargement of skeletal muscle tissue). For instance, success in sports such as bodybuilding is dependent on obtaining maximal levels of muscle mass while carrying minimal fat mass (
+          - link "Helms et al., 2015" [ref=e100] [cursor=pointer]:
+            - /url: "#B21"
+          - text: ). Considering the importance that strength and muscle mass hold in regard to athletic success and overall well-being, implementation of the proper RT program is critical to optimize these attributes. Periodization appears to be an effective means for enhancing strength (
+          - link "Rhea and Alderman, 2004" [ref=e101] [cursor=pointer]:
+            - /url: "#B44"
+          - text: ;
+          - link "Williams et al., 2017" [ref=e102] [cursor=pointer]:
+            - /url: "#B59"
+          - text: ); however, its influence on muscle hypertrophy is less clear. The purpose of this mini-review is to examine the current evidence regarding the application of periodized RT for enhancing muscular strength and skeletal muscle hypertrophy. Limitations and suggestions for future research will be addressed, as this will better enable researchers to accurately assess the efficacy of periodized RT.
+      - generic [ref=e103]:
+        - heading "An Overview of Periodization" [level=2] [ref=e104]: An Overview of Periodization
+        - generic [ref=e105]:
+          - heading "Defining Periodization" [level=3] [ref=e106]
+          - paragraph [ref=e107]:
+            - text: Periodization can be defined as the planned manipulation of training variables to optimize performance at appropriate time points, manage fatigue, and prevent stagnation (
+            - link "Plisk and Stone, 2003" [ref=e108] [cursor=pointer]:
+              - /url: "#B40"
+            - text: ). These variables (such as volume, intensity, and exercise selection) are varied in a cyclical fashion across training cycles to promote peak fitness levels for targeted competitions (
+            - link "Haff, 2004" [ref=e109] [cursor=pointer]:
+              - /url: "#B19"
+            - text: ). The training cycles that are incorporated into the periodized plan consist of the macrocycle, which usually lasts a year, the mesocycle, which may last a month, and the microcycle, which may last a week (
+            - link "Turner, 2011" [ref=e110] [cursor=pointer]:
+              - /url: "#B56"
+            - text: ). As noted by
+            - link "Turner (2011)" [ref=e111] [cursor=pointer]:
+              - /url: "#B56"
+            - text: ", substantial variability exists between the lengths of each training cycle, which will be dependent on the athlete’s goals and competition schedule. In addition, taper periods are commonly incorporated into the training plan to allow the athlete to “peak” in readiness for a competition ("
+            - link "Haff, 2004" [ref=e112] [cursor=pointer]:
+              - /url: "#B19"
+            - text: ). For strength athletes, these phases may consist of reductions in training volume with maintained or slight increases in intensity (
+            - link "Pritchard et al., 2015" [ref=e113] [cursor=pointer]:
+              - /url: "#B42"
+            - text: ). Unloading weeks (which are also characterized by reductions in training volume) may be implemented at the end of each mesocycle to promote further recovery and adaptation from training (
+            - link "Turner, 2011" [ref=e114] [cursor=pointer]:
+              - /url: "#B56"
+            - text: ).
+        - generic [ref=e115]:
+          - heading "A Physiological Basis for Periodized Training" [level=3] [ref=e116]
+          - paragraph [ref=e117]:
+            - text: For a training program to remain effective, it must continually overload the neuromuscular system (
+            - link "Kraemer and Ratamess, 2004" [ref=e118] [cursor=pointer]:
+              - /url: "#B27"
+            - text: ). It has been suggested that variations in training stimuli are necessary to optimize strength adaptations (
+            - link "Kraemer et al., 1988" [ref=e119] [cursor=pointer]:
+              - /url: "#B25"
+            - text: ;
+            - link "Tan, 1999" [ref=e120] [cursor=pointer]:
+              - /url: "#B55"
+            - text: ), since variation may force the neuromuscular system to continually adapt to unaccustomed stress (
+            - link "Rhea and Alderman, 2004" [ref=e121] [cursor=pointer]:
+              - /url: "#B44"
+            - text: ). Conversely, lengthy time periods of loading that are devoid of variation may result in fatigue and stagnation (
+            - link "Williams et al., 2018" [ref=e122] [cursor=pointer]:
+              - /url: "#B60"
+            - text: ). Therefore, one of the purposes of periodization is to implement structured variability into training to offset the negative outcomes that may occur through the stress of linear loading. Support for this notion is demonstrated in a recent study which compared the effects of two periodized training regimens to a non-periodized regimen over 12 weeks of RT (
+            - link "De Souza et al., 2018" [ref=e123] [cursor=pointer]:
+              - /url: "#B11"
+            - text: ). While strength gains favored the non-periodized group after the initial 6 weeks of training, further strength gains were minimal (1.5%) in this group during weeks 6–12. Conversely, both periodized groups were able to enhance strength during this time span (9.4 and 6.9%). These findings indicate that the effectiveness of a non-periodized training program may only last a few months before stagnation occurs.
+          - paragraph [ref=e124]:
+            - text: In addition to incorporating variability within the overall training structure, many periodized training plans implement taper phases prior to important competitions (
+            - link "Smith, 2003" [ref=e125] [cursor=pointer]:
+              - /url: "#B49"
+            - text: ;
+            - link "Turner, 2011" [ref=e126] [cursor=pointer]:
+              - /url: "#B56"
+            - text: ). These phases consist of reduced training loads with the intent of restoring the athlete from training-induced emotional and physiological stress (
+            - link "Mujika and Padilla, 2000" [ref=e127] [cursor=pointer]:
+              - /url: "#B31"
+            - text: ). The basis for tapering relies heavily on the fitness-fatigue model, which suggests that physical training will produce a simultaneous build-up of fitness and fatigue after-effects (
+            - link "Chiu and Barnes, 2003" [ref=e128] [cursor=pointer]:
+              - /url: "#B8"
+            - text: ). Importantly, it is the difference between these after-effects that may determine athletic preparedness (
+            - link "Chiu and Barnes, 2003" [ref=e129] [cursor=pointer]:
+              - /url: "#B8"
+            - text: ).
+            - link "DeWeese et al. (2015)" [ref=e130] [cursor=pointer]:
+              - /url: "#B12"
+            - text: suggest that when training volume is reduced, fatigue will dissipate at a faster rate than fitness, which may necessitate the need for a taper phase prior to a competition. While current research supports the efficacy of tapering for maximal strength (
+            - link "Pritchard et al., 2015" [ref=e131] [cursor=pointer]:
+              - /url: "#B42"
+            - text: ), the mechanisms responsible for this effect are unclear. Some authors suggest that tapering may reduce muscle damage and neuromuscular fatigue, thereby promoting muscular strength improvements (
+            - link "Murach and Bagley, 2015" [ref=e132] [cursor=pointer]:
+              - /url: "#B32"
+            - text: ). Importantly, however, available data on this topic are limited; more research is required to elucidate potential mechanisms behind the effect of tapering on strength enhancement.
+        - generic [ref=e133]:
+          - heading "Periodization Models" [level=3] [ref=e134]
+          - paragraph [ref=e135]:
+            - text: While the tenets of periodization remain constant, there are several ways that a periodized training plan can be implemented. The most common periodization model is the traditional (or “linear”) periodization model (LP). This model initiates with high training volumes and low intensities and gradually progresses toward low training volumes and high intensities over the course of several months (
+            - link "Fleck, 2011" [ref=e136] [cursor=pointer]:
+              - /url: "#B14"
+            - text: ). It should be noted that the term “linear periodization” is a misnomer, considering the training plan does not end at the completion of the high-intensity phase. All periodization models are cyclical in nature; therefore, it is inaccurate to depict any periodization model as “linear” (
+            - link "Stone and Wathen, 2001" [ref=e137] [cursor=pointer]:
+              - /url: "#B52"
+            - text: ). In addition to the “linear” model, the reverse-linear periodization model has been proposed, which is nearly identical to the linear model except that it is run backward (
+            - link "Helms et al., 2015" [ref=e138] [cursor=pointer]:
+              - /url: "#B21"
+            - text: ). This model initiates with low training volumes and high intensities and gradually progresses toward high training volumes and low intensities. One of the more heavily-researched periodization models is the undulating (or “non-linear”) periodization model (UP). This model entails more frequent variations in loading than the previous two models. Specifically, loading zones may vary on a daily, weekly, or bi-weekly basis (
+            - link "Buford et al., 2007" [ref=e139] [cursor=pointer]:
+              - /url: "#B6"
+            - text: ). It should be noted, however, that UP and LP are not mutually exclusive. For instance, UP models often incorporate linearity to coincide with upcoming competitions. Specifically, while UP entails frequent variations in loading, repetition schemes can progress from high (hypertrophy-oriented) to low (strength/power-oriented) over the course of several training phases (
+            - link "Poliquin, 1988" [ref=e140] [cursor=pointer]:
+              - /url: "#B41"
+            - text: ).
+      - generic [ref=e141]:
+        - heading "Periodization for Enhancing Muscular Strength" [level=2] [ref=e142]: Periodization for Enhancing Muscular Strength
+        - generic [ref=e143]:
+          - heading "Support for the Efficacy of Periodized Resistance Training" [level=3] [ref=e144]
+          - paragraph [ref=e145]:
+            - text: Since its introduction into strength and conditioning literature, periodization has received much attention for its beneficial effects on strength performance. Support for the efficacy of periodized RT has been demonstrated in two meta-analyses, both of which showed periodized RT to be superior to non-periodized RT for enhancing maximal strength (
+            - link "Rhea and Alderman, 2004" [ref=e146] [cursor=pointer]:
+              - /url: "#B44"
+            - text: ;
+            - link "Williams et al., 2017" [ref=e147] [cursor=pointer]:
+              - /url: "#B59"
+            - text: ). Importantly, both analyses found the superiority of periodized RT to be consistent irrespective of training volume or training status. The authors of each analysis note that the superior effect of periodized RT might be a conservative estimate, since the studies included in each analysis were short in duration. In the more recent meta-analysis by
+            - link "Williams et al. (2017)" [ref=e148] [cursor=pointer]:
+              - /url: "#B59"
+            - text: ", the majority of studies lasted less than 16 weeks. Since periodization is designed to be a long-term approach to training ("
+            - link "Pedemonte, 1986" [ref=e149] [cursor=pointer]:
+              - /url: "#B38"
+            - text: ;
+            - link "Fry et al., 1991" [ref=e150] [cursor=pointer]:
+              - /url: "#B15"
+            - text: ;
+            - link "Stone et al., 1999" [ref=e151] [cursor=pointer]:
+              - /url: "#B51"
+            - text: ), it is possible that the superior effect of periodized RT may be even greater than presented in each analysis.
+        - generic [ref=e152]:
+          - heading "The Effect of Periodization Model on Enhancing Muscular Strength" [level=3] [ref=e153]
+          - paragraph [ref=e154]:
+            - text: The notion that a specific periodization model might elicit superior strength improvements compared to other models has been subject to a great deal of research. Some authors have suggested that UP may produce superior strength gains since it incorporates more frequent variations in loading (
+            - link "Poliquin, 1988" [ref=e155] [cursor=pointer]:
+              - /url: "#B41"
+            - text: ;
+            - link "Rhea et al., 2002" [ref=e156] [cursor=pointer]:
+              - /url: "#B46"
+            - text: ). Since the LP model generally entails lengthy time periods spent in a specific loading zone, the lifter might quickly adapt to the training stimulus, which may result in stagnation. Conversely, since the UP model varies the training stimulus more frequently, the lifter may be forced to continually adapt to the unaccustomed stress. A meta-analysis by
+            - link "Harries et al. (2015)" [ref=e157] [cursor=pointer]:
+              - /url: "#B20"
+            - text: found no significant difference between UP and LP for eliciting maximal strength gains; however, the authors did show a trend favoring UP as being more beneficial for leg press strength (mean difference = 25.93 [95% confidence interval -2.48 to 54.35] kg,
+            - emphasis [ref=e158]: Z
+            - text: = 1.79 [
+            - emphasis [ref=e159]: p
+            - text: = 0.07]). A subsequent meta-analysis by
+            - link "Caldas et al. (2016)" [ref=e160] [cursor=pointer]:
+              - /url: "#B7"
+            - text: found UP to produce significantly greater improvements in maximal strength than LP. The different results may be due to the larger data pool included in the analysis by
+            - link "Caldas et al. (2016)" [ref=e161] [cursor=pointer]:
+              - /url: "#B7"
+            - text: . In the meta-analysis by
+            - link "Williams et al. (2017)" [ref=e162] [cursor=pointer]:
+              - /url: "#B59"
+            - text: ", it was found that UP produced superior strength gains to LP. As"
+            - link "Williams et al. (2017)" [ref=e163] [cursor=pointer]:
+              - /url: "#B59"
+            - text: stress, however, the primary objective of their analysis was to determine the effects of periodized versus non-periodized RT programs for strength development. Therefore, their analysis did not include studies which solely compared different periodization models against each other. Considering these findings, it is possible that UP might be ideal for optimizing maximal strength.
+        - generic [ref=e164]:
+          - heading "Variation or Specificity?" [level=3] [ref=e165]
+          - paragraph [ref=e166]:
+            - text: Periodization theory suggests that training variation is essential to maximize fitness adaptations (
+            - link "Haff, 2004" [ref=e167] [cursor=pointer]:
+              - /url: "#B19"
+            - text: ). In the meta-analysis by
+            - link "Williams et al. (2017)" [ref=e168] [cursor=pointer]:
+              - /url: "#B59"
+            - text: ", the authors conclude that, “variation in training stimuli appears to be vital for increasing maximal strength.” However, close inspection of the studies included in their analysis reveals that the periodized groups trained with higher intensities prior to testing compared to the non-periodized groups ("
+            - link "Nunes et al., 2018" [ref=e169] [cursor=pointer]:
+              - /url: "#B35"
+            - text: ). This has led some authors to suggest that the superior results experienced by the periodized groups may have been due to the principle of specificity rather than the varied nature of periodized training (
+            - link "Nunes et al., 2018" [ref=e170] [cursor=pointer]:
+              - /url: "#B35"
+            - text: ). Indeed, research has demonstrated that training with heavy loads can elicit greater one-repetition maximum (1RM) improvements compared to training with light loads (
+            - link "Schoenfeld et al., 2017" [ref=e171] [cursor=pointer]:
+              - /url: "#B48"
+            - text: ). These findings are in accordance with the principle of specificity, since training with near-maximal loads is highly specific to performing a 1RM test (
+            - link "Buckner et al., 2017" [ref=e172] [cursor=pointer]:
+              - /url: "#B5"
+            - text: ). Considering this point,
+            - link "Nunes et al. (2018)" [ref=e173] [cursor=pointer]:
+              - /url: "#B35"
+            - text: suggest that to truly determine if the improvements seen through periodized RT are due to training variation (and not the principle of specificity), studies should designate high-intensity loading zones (1–5 repetition range) to the non-periodized groups, while the periodized groups train across a variety of loading zones.
+          - paragraph [ref=e174]:
+            - text: A recent study attempted to address this issue by comparing the effects of “daily max” training to a LP protocol in competitive powerlifters (
+            - link "Androulakis-Korakakis et al., 2018" [ref=e175] [cursor=pointer]:
+              - /url: "#B3"
+            - text: ). The daily max group completed single sets of one repetition with near-maximal loads (9–9.5 rating of perceived exertion) during each training session. Conversely, the LP group performed multiple sets with loads ranging from 70–93% 1RM. After 10 weeks of training, two out of the three subjects in the LP group increased their powerlifting total (2 and 6.5%), whereas one subject experienced no change. In the daily max group, two out of the five subjects increased their powerlifting total (4.8 and 4.2%) whereas three subjects experienced a decrease in their powerlifting total (-0.5, -3.4, and -5%). While the superior outcomes experienced in the LP group would appear to confirm the benefits of periodized training, it must be stressed that this group trained with substantially more volume than the daily max group. Considering the influence that training volume has on strength development (
+            - link "Rhea et al., 2003" [ref=e176] [cursor=pointer]:
+              - /url: "#B45"
+            - text: ;
+            - link "Krieger, 2009" [ref=e177] [cursor=pointer]:
+              - /url: "#B29"
+            - text: ;
+            - link "Ralston et al., 2017" [ref=e178] [cursor=pointer]:
+              - /url: "#B43"
+            - text: ), it is unclear whether the superior outcomes seen in the LP group were primarily due to training variation or training volume. As mentioned previously, chronic periods of loading that are devoid of variation may lead to fatigue and stagnation (
+            - link "Williams et al., 2018" [ref=e179] [cursor=pointer]:
+              - /url: "#B60"
+            - text: ), thereby hindering strength performance. In this regard, it is possible that chronically high volumes of heavy loading might induce a state of overtraining that may be deleterious to neuromuscular adaptation (
+            - link "Stone et al., 1991" [ref=e180] [cursor=pointer]:
+              - /url: "#B50"
+            - text: ). Since periodization theory suggests that the proper manipulation of volume and intensity may mitigate overtraining potential (
+            - link "Stone et al., 1991" [ref=e181] [cursor=pointer]:
+              - /url: "#B50"
+            - text: ), future studies should compare these two training conditions (i.e., high training volumes with heavy loads versus volume-matched periodized RT) to accurately establish the effect of training variation on strength enhancement. In addition to the difference in training volume between groups, the low number of subjects included in the data analysis (
+            - emphasis [ref=e182]: "n"
+            - text: = 8) by
+            - link "Androulakis-Korakakis et al. (2018)" [ref=e183] [cursor=pointer]:
+              - /url: "#B3"
+            - text: warrants caution when interpreting the findings of this study. Furthermore, post-testing occurred in a powerlifting meet rather than a controlled study environment. This creates the possibility that the subjects’ tactics and mental states might have influenced the results. Future studies should address these issues to accurately assess the influence of training specificity and training variation on strength improvements from periodized RT.
+      - generic [ref=e184]:
+        - heading "Periodization for Enhancing Skeletal Muscle Hypertrophy" [level=2] [ref=e185]: Periodization for Enhancing Skeletal Muscle Hypertrophy
+        - generic [ref=e186]:
+          - heading "Is Periodized Resistance Training Necessary to Maximize Skeletal Muscle Hypertrophy?" [level=3] [ref=e187]
+          - paragraph [ref=e188]:
+            - text: As previously mentioned, many individuals engage in RT as a means to enhance skeletal muscle hypertrophy as well as strength. Only recently has research paid close attention to this attribute with regard to periodized RT programs. A recent systematic review analyzed 12 studies comparing periodized RT to non-periodized RT protocols for hypertrophy outcomes (
+            - link "Grgic et al., 2018" [ref=e189] [cursor=pointer]:
+              - /url: "#B16"
+            - text: ). The authors concluded that while both program types yield similar results, the limited number of studies analyzed (with just two including trained subjects) makes it difficult to draw definitive conclusions. In addition, the authors of the review suggest that direct measures of muscle hypertrophy, such as MRI or ultrasound, may be required to elucidate potential differences between groups. Unfortunately, only three studies included in the review used either of these measurement tools, with one out of the three studies (
+            - link "Schoenfeld et al., 2016" [ref=e190] [cursor=pointer]:
+              - /url: "#B47"
+            - text: ) suggesting a slight benefit to periodized RT.
+          - paragraph [ref=e191]:
+            - text: It could be argued that the lack of differences found between training conditions may be due to short study durations. A 9-month study by
+            - link "Kraemer et al. (2003)" [ref=e192] [cursor=pointer]:
+              - /url: "#B26"
+            - text: compared the effects of UP to non-periodized RT in two groups of female tennis players. After the duration of the study period, it was found that the UP group experienced greater absolute changes in fat-free mass than the non-periodized group (3.3 ± 1.7 kg versus 1.6 ± 2.4 kg, respectively). While this study suggests that a long study duration may be required for differences in muscle hypertrophy to manifest between groups, a 6-month study by
+            - link "Hunter et al. (2001)" [ref=e193] [cursor=pointer]:
+              - /url: "#B23"
+            - text: did not find a superior effect of periodized RT over a non-periodized program in untrained older adults. As mentioned by
+            - link "Schoenfeld et al. (2016)" [ref=e194] [cursor=pointer]:
+              - /url: "#B47"
+            - text: ", the conflicting results may be due to the differences in study populations (young female tennis players versus inactive older adults). More research is required to investigate the effects of long-term periodization programs on skeletal muscle hypertrophy."
+        - generic [ref=e195]:
+          - heading "The Effect of Periodization Model on Enhancing Skeletal Muscle Hypertrophy" [level=3] [ref=e196]
+          - paragraph [ref=e197]:
+            - text: In 1988, Poliquin proposed that the undulating model may offer a superior hypertrophic effect compared to the linear model, since the linear model entails lengthy time spans spent in a particular loading zone (
+            - link "Poliquin, 1988" [ref=e198] [cursor=pointer]:
+              - /url: "#B41"
+            - text: ). Specifically, since LP models generally allocate a month or longer of training time to be spent in a “strength-power” training phase, the lifter might lose the muscle gains he or she achieved in the hypertrophy phase of training. Conversely, since the UP model incorporates hypertrophy sessions on a weekly or bi-weekly basis, it could be argued that this frequent exposure to hypertrophy-focused training would be more conducive for muscle gains. To this author’s knowledge, two meta-analyses have been conducted to compare the effects of LP to UP for enhancing skeletal muscle hypertrophy (
+            - link "Caldas et al., 2016" [ref=e199] [cursor=pointer]:
+              - /url: "#B7"
+            - text: ;
+            - link "Grgic et al., 2017" [ref=e200] [cursor=pointer]:
+              - /url: "#B17"
+            - text: ). While neither analysis found an advantage to either model for hypertrophy outcomes, it should be noted that many of the studies included in each analysis utilized strength-oriented program designs with hypertrophy measured as a secondary outcome. It is possible that different results might have occurred had all of the included studies implemented hypertrophy-focused training designs (such as higher repetition schemes used prior to testing). In addition to this issue, just one out of the 13 studies included in the analysis by
+            - link "Grgic et al. (2017)" [ref=e201] [cursor=pointer]:
+              - /url: "#B17"
+            - text: used trained subjects. Similarly, in the analysis by
+            - link "Caldas et al. (2016)" [ref=e202] [cursor=pointer]:
+              - /url: "#B7"
+            - text: ", six studies were examined for hypertrophy outcomes, with only one study using trained subjects. Considering trained individuals display a different physiological response to RT than untrained individuals ("
+            - link "Damas et al., 2015" [ref=e203] [cursor=pointer]:
+              - /url: "#B10"
+            - text: ), the results of these analyses may not be applicable to lifters with training experience.
+        - generic [ref=e204]:
+          - heading "Targeting Different Muscle Fibers" [level=3] [ref=e205]
+          - paragraph [ref=e206]:
+            - link "Grgic and Schoenfeld (2018)" [ref=e207] [cursor=pointer]:
+              - /url: "#B18"
+            - text: suggested that skeletal muscle might respond to RT in a fiber type-specific manner. Specifically, low loads that promote more time under tension may produce greater hypertrophy of the type I muscle fibers, whereas high loads may preferentially target the type II muscle fibers (
+            - link "Grgic and Schoenfeld, 2018" [ref=e208] [cursor=pointer]:
+              - /url: "#B18"
+            - text: ). While the authors concluded that there is limited available evidence to support this claim, they did cite research from
+            - link "Netreba et al. (2013)" [ref=e209] [cursor=pointer]:
+              - /url: "#B34"
+            - text: and
+            - link "Vinogradova et al. (2013)" [ref=e210] [cursor=pointer]:
+              - /url: "#B57"
+            - text: as support for the notion of fiber type-specific adaptations to RT. Considering this possibility, incorporating a combination of loading zones in a periodized fashion may be required to maximize the growth of both fiber types (
+            - link "Ogborn and Schoenfeld, 2014" [ref=e211] [cursor=pointer]:
+              - /url: "#B37"
+            - text: ). An 8-week study by
+            - link "Schoenfeld et al. (2016)" [ref=e212] [cursor=pointer]:
+              - /url: "#B47"
+            - text: sought to determine if training across a wide spectrum of loading zones would result in superior muscle adaptations compared to a non-periodized group. The periodized condition was constructed as a UP model that incorporated loading zones of a 2–4 repetition maximum (RM) on Day 1, an 8–12 RM on Day 2, and a 20–30 RM on Day 3. The non-periodized group adhered to an 8–12 RM throughout the duration of the study. At the end of the study period, no significant differences were found between groups for hypertrophy or strength outcomes; however, effect sizes favored the UP group for increases in muscle thickness. While this study suggests a potential hypertrophic benefit to training across a wide spectrum of repetition ranges, it is unclear if the muscle gains experienced in the UP group occurred in a fiber type-specific manner. More research is needed to determine the effects of various loading strategies on different muscle fibers.
+      - generic [ref=e213]:
+        - heading "Limitations and Directions for Future Research" [level=2] [ref=e214]: Limitations and Directions for Future Research
+        - paragraph [ref=e215]:
+          - text: While the current evidence supports the use of periodized RT for optimizing muscular strength, several limitations exist in the periodization literature. As mentioned previously, the majority of studies comparing periodized training to non-periodized training are short in duration (
+          - link "Cissik et al., 2008" [ref=e216] [cursor=pointer]:
+            - /url: "#B9"
+          - text: ;
+          - link "Afonso et al., 2017" [ref=e217] [cursor=pointer]:
+            - /url: "#B1"
+          - text: ). Considering periodization originated as a long-term approach to training, it is important that researchers conduct longer trials to accurately establish the efficacy of periodized RT programs. Furthermore, an objective of periodization is to promote peak levels of performance at designated time points (
+          - link "Naclerio et al., 2013" [ref=e218] [cursor=pointer]:
+            - /url: "#B33"
+          - text: ). This may be accomplished through careful manipulations of volume and intensity in the weeks prior to testing. Interestingly, a review by
+          - link "Afonso et al. (2017)" [ref=e219] [cursor=pointer]:
+            - /url: "#B1"
+          - text: found that predictions regarding the timing and magnitude of fitness adaptations are generally non-existent in periodization studies. Rather than focusing on this aspect of periodization, most studies only use training variation to represent a periodized approach to training (
+          - link "Kiely, 2012" [ref=e220] [cursor=pointer]:
+            - /url: "#B24"
+          - text: ;
+          - link "Afonso et al., 2017" [ref=e221] [cursor=pointer]:
+            - /url: "#B1"
+          - text: ). This is not a complete representation of periodization; future studies should address this issue by implementing taper periods and unloading cycles into the training plans at appropriate time points.
+        - paragraph [ref=e222]:
+          - text: There is a tendency in strength and conditioning research to differentiate periodization models from one another (for instance, UP is often viewed separately from LP). However, as mentioned previously, UP can incorporate linearity within the overall training plan. When examining the effects of periodized RT on enhancing muscular strength, it might be useful for researchers to integrate aspects of different periodization models into individual training plans, as this approach may provide advantages over rigid periodization structures. In addition to assessing strength adaptations, subjective fatigue questionnaires should be assigned to each treatment group to determine whether periodization is effective at minimizing subjective fatigue while optimizing mental engagement to training. As to the paper by
+          - link "Nunes et al. (2018)" [ref=e223] [cursor=pointer]:
+            - /url: "#B35"
+          - text: ", future studies comparing periodized RT to non-periodized RT should assign higher training intensities (1–5 repetition range) to the non-periodized groups while the periodized groups train across a variety of intensities (on a volume-equated basis)."
+        - paragraph [ref=e224]:
+          - text: When examining the effects of periodized RT on skeletal muscle hypertrophy, there is a dearth of studies on trained subjects. Furthermore, many periodization studies that analyze hypertrophy outcomes tend to implement strength-oriented programs with hypertrophy measured as a secondary outcome. Constructing hypertrophy-focused training programs may be beneficial for elucidating potential hypertrophic differences between training conditions (e.g., LP versus UP, or periodized versus non-periodized RT). Similar to unloading phases, more studies should incorporate detraining cycles (i.e., periods of training cessation) into the periodized training plans, as research indicates that detraining phases may resensitize skeletal muscle to RT stimuli (
+          - link "Ogasawara et al., 2013" [ref=e225] [cursor=pointer]:
+            - /url: "#B36"
+          - text: ). In this regard, it might be of interest to study the effects of various detraining/retraining cycles (e.g., 1 week of detraining followed by 3 weeks of retraining, or 2 weeks of detraining followed by 6 weeks of retraining) on muscle adaptations to periodized RT. The review by
+          - link "Afonso et al. (2017)" [ref=e226] [cursor=pointer]:
+            - /url: "#B1"
+          - text: found that many periodization studies do not control for nutritional intake. This is problematic, since differences in macronutrient intake (particularly protein) can affect the magnitude of muscle adaptations to RT (
+          - link "Morton et al., 2018" [ref=e227] [cursor=pointer]:
+            - /url: "#B30"
+          - text: ). Finally, more research is required to determine the effects of various loading strategies (specifically, low-load training versus high-load training) on different muscle fibers, as this may have implications for periodized training designs aimed at maximizing skeletal muscle hypertrophy.
+      - generic [ref=e228]:
+        - heading "Conclusion" [level=2] [ref=e229]: Conclusion
+        - paragraph [ref=e230]: The current body of evidence suggests a benefit of periodized RT programs for maximizing muscular strength in trained and untrained populations. Regarding the optimal periodization model for strength development, the research remains equivocal, although the undulating model may provide a superior effect. Furthermore, while the current data provide a basis for the use of periodized RT to optimize muscular strength, longer trials that incorporate taper periods and unloading phases are required to better assess the efficacy of periodized training. Regarding skeletal muscle hypertrophy, LP and UP appear to promote similar adaptations in untrained subjects; however, these findings are largely based on studies designed to maximize strength rather than hypertrophy. It is unclear whether periodized RT is able to enhance skeletal muscle hypertrophy beyond that of non-periodized programs.
+      - generic [ref=e231]:
+        - heading "Author Contributions" [level=2] [ref=e232]: Author Contributions
+        - paragraph [ref=e233]: The author confirms being the sole contributor of this work and has approved it for publication.
+      - generic [ref=e234]:
+        - heading "Conflict of Interest Statement" [level=2] [ref=e235]: Conflict of Interest Statement
+        - paragraph [ref=e236]: The author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+      - generic [ref=e237]:
+        - heading "References" [level=2] [ref=e238]: References
+        - list [ref=e240]:
+          - listitem [ref=e241]:
+            - generic [ref=e242]:
+              - text: Afonso J., Nikolaidis P. T., Sousa P., Mesquita I. (2017). Is empirical research on periodization trustworthy? A comprehensive review of conceptual and methodological issues.
+              - emphasis [ref=e243]: J. Sports Sci. Med.
+              - text: 16 27–34.
+            - text: "["
+            - link "PMC free article" [ref=e244] [cursor=pointer]:
+              - /url: /articles/PMC5358028/
+            - text: "] ["
+            - link "PubMed" [ref=e245] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28344448/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e246] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Sports%20Sci.%20Med.&title=Is%20empirical%20research%20on%20periodization%20trustworthy?%20A%20comprehensive%20review%20of%20conceptual%20and%20methodological%20issues.&author=J.%20Afonso&author=P.%20T.%20Nikolaidis&author=P.%20Sousa&author=I.%20Mesquita&volume=16&publication_year=2017&pages=27-34&pmid=28344448&
+            - text: "]"
+          - listitem [ref=e247]:
+            - generic [ref=e248]:
+              - text: American College of Sports Medicine (2009). American college of sports medicine position stand. Progression models in resistance training for healthy adults.
+              - emphasis [ref=e249]: Med. Sci. Sports Exerc.
+              - text: 41 687–708. 10.1249/MSS.0b013e3181915670
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e250] [cursor=pointer]:
+              - /url: https://doi.org/10.1249/MSS.0b013e3181915670
+            - text: "] ["
+            - link "PubMed" [ref=e251] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/19204579/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e252] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Med.%20Sci.%20Sports%20Exerc.&title=American%20college%20of%20sports%20medicine%20position%20stand.%20Progression%20models%20in%20resistance%20training%20for%20healthy%20adults.&volume=41&publication_year=2009&pages=687-708&pmid=19204579&doi=10.1249/MSS.0b013e3181915670&
+            - text: "]"
+          - listitem [ref=e253]:
+            - generic [ref=e254]:
+              - text: Androulakis-Korakakis P., Fisher J., Kolokotronis P., Gentil P., Steele J. (2018). Reduced volume ‘daily max training’ compared to higher volume periodized training in powerlifters preparing for competition—a pilot study.
+              - emphasis [ref=e255]: Sports
+              - text: 6:86. 10.3390/sports6030086
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e256] [cursor=pointer]:
+              - /url: https://doi.org/10.3390/sports6030086
+            - text: "] ["
+            - link "PMC free article" [ref=e257] [cursor=pointer]:
+              - /url: /articles/PMC6162635/
+            - text: "] ["
+            - link "PubMed" [ref=e258] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/30158433/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e259] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports&title=Reduced%20volume%20%E2%80%98daily%20max%20training%E2%80%99%20compared%20to%20higher%20volume%20periodized%20training%20in%20powerlifters%20preparing%20for%20competition%E2%80%94a%20pilot%20study.&author=P.%20Androulakis-Korakakis&author=J.%20Fisher&author=P.%20Kolokotronis&author=P.%20Gentil&author=J.%20Steele&volume=6&issue=86&publication_year=2018&pmid=30158433&doi=10.3390/sports6030086&
+            - text: "]"
+          - listitem [ref=e260]:
+            - generic [ref=e261]:
+              - text: "Borde R., Hortobágyi T., Granacher U. (2015). Dose–response relationships of resistance training in healthy old adults: a systematic review and meta-analysis."
+              - emphasis [ref=e262]: Sports Med.
+              - text: 45 1693–1720. 10.1007/s40279-015-0385-9
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e263] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s40279-015-0385-9
+            - text: "] ["
+            - link "PMC free article" [ref=e264] [cursor=pointer]:
+              - /url: /articles/PMC4656698/
+            - text: "] ["
+            - link "PubMed" [ref=e265] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/26420238/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e266] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=Dose%E2%80%93response%20relationships%20of%20resistance%20training%20in%20healthy%20old%20adults:%20a%20systematic%20review%20and%20meta-analysis.&author=R.%20Borde&author=T.%20Hortob%C3%A1gyi&author=U.%20Granacher&volume=45&publication_year=2015&pages=1693-1720&pmid=26420238&doi=10.1007/s40279-015-0385-9&
+            - text: "]"
+          - listitem [ref=e267]:
+            - generic [ref=e268]:
+              - text: "Buckner S. L., Jessee M. B., Mattocks K. T., Mouser J. G., Counts B. R., Dankel S. J., et al. (2017). Determining strength: a case for multiple methods of measurement."
+              - emphasis [ref=e269]: Sports Med.
+              - text: 47 193–195. 10.1007/s40279-016-0580-3
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e270] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s40279-016-0580-3
+            - text: "] ["
+            - link "PubMed" [ref=e271] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/27380100/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e272] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=Determining%20strength:%20a%20case%20for%20multiple%20methods%20of%20measurement.&author=S.%20L.%20Buckner&author=M.%20B.%20Jessee&author=K.%20T.%20Mattocks&author=J.%20G.%20Mouser&author=B.%20R.%20Counts&volume=47&publication_year=2017&pages=193-195&pmid=27380100&doi=10.1007/s40279-016-0580-3&
+            - text: "]"
+          - listitem [ref=e273]:
+            - generic [ref=e274]:
+              - text: Buford T. W., Rossi S. J., Smith D. B., Warren A. J. (2007). A comparison of periodization models during nine weeks with equated volume and intensity for strength.
+              - emphasis [ref=e275]: J. Strength Cond. Res.
+              - text: 21 1245–1250.
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e276] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/R-20446.1
+            - text: "] ["
+            - link "PubMed" [ref=e277] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/18076234/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e278] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Strength%20Cond.%20Res.&title=A%20comparison%20of%20periodization%20models%20during%20nine%20weeks%20with%20equated%20volume%20and%20intensity%20for%20strength.&author=T.%20W.%20Buford&author=S.%20J.%20Rossi&author=D.%20B.%20Smith&author=A.%20J.%20Warren&volume=21&publication_year=2007&pages=1245-1250&pmid=18076234&doi=10.1519/R-20446.1&
+            - text: "]"
+          - listitem [ref=e279]:
+            - generic [ref=e280]:
+              - text: "Caldas L. C., Guimarães-Ferreira L., Duncan M. J., Leopoldo A. S., Leopoldo A. P. L., Lunz W. (2016). Traditional vs. undulating periodization in the context of muscular strength and hypertrophy: a meta-analysis."
+              - emphasis [ref=e281]: Int. J. Sports Sci.
+              - text: 6 219–229. 10.5923/j.sports.20160606.04
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e282] [cursor=pointer]:
+              - /url: https://doi.org/10.5923/j.sports.20160606.04
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e283] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Int.%20J.%20Sports%20Sci.&title=Traditional%20vs.%20undulating%20periodization%20in%20the%20context%20of%20muscular%20strength%20and%20hypertrophy:%20a%20meta-analysis.&author=L.%20C.%20Caldas&author=L.%20Guimar%C3%A3es-Ferreira&author=M.%20J.%20Duncan&author=A.%20S.%20Leopoldo&author=A.%20P.%20L.%20Leopoldo&volume=6&publication_year=2016&pages=219-229&doi=10.5923/j.sports.20160606.04&
+            - text: "]"
+          - listitem [ref=e284]:
+            - generic [ref=e285]:
+              - text: "Chiu L. Z., Barnes J. L. (2003). The fitness-fatigue model revisited: implications for planning short-and long-term training."
+              - emphasis [ref=e286]: Strength Cond. J.
+              - text: 25 42–51. 10.1519/00126548-200312000-00007
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e287] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/00126548-200312000-00007
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e288] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Strength%20Cond.%20J.&title=The%20fitness-fatigue%20model%20revisited:%20implications%20for%20planning%20short-and%20long-term%20training.&author=L.%20Z.%20Chiu&author=J.%20L.%20Barnes&volume=25&publication_year=2003&pages=42-51&doi=10.1519/00126548-200312000-00007&
+            - text: "]"
+          - listitem [ref=e289]:
+            - generic [ref=e290]:
+              - text: Cissik J., Hedrick A., Barnes M. (2008). Challenges applying the research on periodization.
+              - emphasis [ref=e291]: Strength Cond. J.
+              - text: 30 45–51. 10.1519/SSC.0b013e3181637f83
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e292] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/SSC.0b013e3181637f83
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e293] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Strength%20Cond.%20J.&title=Challenges%20applying%20the%20research%20on%20periodization.&author=J.%20Cissik&author=A.%20Hedrick&author=M.%20Barnes&volume=30&publication_year=2008&pages=45-51&doi=10.1519/SSC.0b013e3181637f83&
+            - text: "]"
+          - listitem [ref=e294]:
+            - generic [ref=e295]:
+              - text: Damas F., Phillips S., Vechin F. C., Ugrinowitsch C. (2015). A review of resistance training-induced changes in skeletal muscle protein synthesis and their contribution to hypertrophy.
+              - emphasis [ref=e296]: Sports Med.
+              - text: 45 801–807. 10.1007/s40279-015-0320-0
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e297] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s40279-015-0320-0
+            - text: "] ["
+            - link "PubMed" [ref=e298] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/25739559/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e299] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=A%20review%20of%20resistance%20training-induced%20changes%20in%20skeletal%20muscle%20protein%20synthesis%20and%20their%20contribution%20to%20hypertrophy.&author=F.%20Damas&author=S.%20Phillips&author=F.%20C.%20Vechin&author=C.%20Ugrinowitsch&volume=45&publication_year=2015&pages=801-807&pmid=25739559&doi=10.1007/s40279-015-0320-0&
+            - text: "]"
+          - listitem [ref=e300]:
+            - generic [ref=e301]:
+              - text: De Souza E. O., Tricoli V., Rauch J., Alvarez M. R., Laurentino G., Aihara A. Y., et al. (2018). Different patterns in muscular strength and hypertrophy adaptations in untrained individuals undergoing nonperiodized and periodized strength regimens.
+              - emphasis [ref=e302]: J. Strength Cond. Res.
+              - text: 32 1238–1244. 10.1519/JSC.0000000000002482
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e303] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/JSC.0000000000002482
+            - text: "] ["
+            - link "PubMed" [ref=e304] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29683914/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e305] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Strength%20Cond.%20Res.&title=Different%20patterns%20in%20muscular%20strength%20and%20hypertrophy%20adaptations%20in%20untrained%20individuals%20undergoing%20nonperiodized%20and%20periodized%20strength%20regimens.&author=E.%20O.%20De%20Souza&author=V.%20Tricoli&author=J.%20Rauch&author=M.%20R.%20Alvarez&author=G.%20Laurentino&volume=32&publication_year=2018&pages=1238-1244&pmid=29683914&doi=10.1519/JSC.0000000000002482&
+            - text: "]"
+          - listitem [ref=e306]:
+            - generic [ref=e307]:
+              - text: "DeWeese B. H., Hornsby G., Stone M., Stone M. H. (2015). The training process: planning for strength–power training in track and field. Part 1: theoretical aspects."
+              - emphasis [ref=e308]: J. Sport Health Sci.
+              - text: 4 308–317. 10.1016/j.jshs.2015.07.003
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e309] [cursor=pointer]:
+              - /url: https://doi.org/10.1016/j.jshs.2015.07.003
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e310] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Sport%20Health%20Sci.&title=The%20training%20process:%20planning%20for%20strength%E2%80%93power%20training%20in%20track%20and%20field.%20Part%201:%20theoretical%20aspects.&author=B.%20H.%20DeWeese&author=G.%20Hornsby&author=M.%20Stone&author=M.%20H.%20Stone&volume=4&publication_year=2015&pages=308-317&doi=10.1016/j.jshs.2015.07.003&
+            - text: "]"
+          - listitem [ref=e311]:
+            - generic [ref=e312]:
+              - text: "Faigenbaum A. D., Kraemer W. J., Blimkie C. J., Jeffreys I., Micheli L. J., Nitka M., et al. (2009). Youth resistance training: updated position statement paper from the national strength and conditioning association."
+              - emphasis [ref=e313]: J. Strength Cond. Res.
+              - text: 23 S60–S79. 10.1519/JSC.0b013e31819df407
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e314] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/JSC.0b013e31819df407
+            - text: "] ["
+            - link "PubMed" [ref=e315] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/19620931/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e316] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Strength%20Cond.%20Res.&title=Youth%20resistance%20training:%20updated%20position%20statement%20paper%20from%20the%20national%20strength%20and%20conditioning%20association.&author=A.%20D.%20Faigenbaum&author=W.%20J.%20Kraemer&author=C.%20J.%20Blimkie&author=I.%20Jeffreys&author=L.%20J.%20Micheli&volume=23&publication_year=2009&pages=S60-S79&pmid=19620931&doi=10.1519/JSC.0b013e31819df407&
+            - text: "]"
+          - listitem [ref=e317]:
+            - generic [ref=e318]:
+              - text: Fleck S. J. (2011). Non-linear periodization for general fitness & athletes.
+              - emphasis [ref=e319]: J. Hum. Kinet.
+              - text: 29A, 41–45. 10.2478/v10078-011-0057-2
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e320] [cursor=pointer]:
+              - /url: https://doi.org/10.2478/v10078-011-0057-2
+            - text: "] ["
+            - link "PMC free article" [ref=e321] [cursor=pointer]:
+              - /url: /articles/PMC3588896/
+            - text: "] ["
+            - link "PubMed" [ref=e322] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/23486658/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e323] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Hum.%20Kinet.&title=Non-linear%20periodization%20for%20general%20fitness%20&%20athletes.&author=S.%20J.%20Fleck&volume=29A&publication_year=2011&pages=41-45&pmid=23486658&doi=10.2478/v10078-011-0057-2&
+            - text: "]"
+          - listitem [ref=e324]:
+            - generic [ref=e325]:
+              - text: Fry R. W., Morton A. R., Keast D. (1991). Overtraining in athletes. An update.
+              - emphasis [ref=e326]: Sports Med.
+              - text: 12 32–65. 10.2165/00007256-199112010-00004
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e327] [cursor=pointer]:
+              - /url: https://doi.org/10.2165/00007256-199112010-00004
+            - text: "] ["
+            - link "PubMed" [ref=e328] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/1925188/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e329] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=Overtraining%20in%20athletes.%20An%20update.&author=R.%20W.%20Fry&author=A.%20R.%20Morton&author=D.%20Keast&volume=12&publication_year=1991&pages=32-65&pmid=1925188&doi=10.2165/00007256-199112010-00004&
+            - text: "]"
+          - listitem [ref=e330]:
+            - generic [ref=e331]:
+              - text: Grgic J., Lazinica B., Mikulic P., Schoenfeld B. J. (2018). Should resistance training programs aimed at muscular hypertrophy be periodized? A systematic review of periodized versus non-periodized approaches.
+              - emphasis [ref=e332]: Sci. Sports
+              - text: 33 e97–e104. 10.1016/j.scispo.2017.09.005
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e333] [cursor=pointer]:
+              - /url: https://doi.org/10.1016/j.scispo.2017.09.005
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e334] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sci.%20Sports&title=Should%20resistance%20training%20programs%20aimed%20at%20muscular%20hypertrophy%20be%20periodized?%20A%20systematic%20review%20of%20periodized%20versus%20non-periodized%20approaches.&author=J.%20Grgic&author=B.%20Lazinica&author=P.%20Mikulic&author=B.%20J.%20Schoenfeld&volume=33&publication_year=2018&pages=e97-e104&doi=10.1016/j.scispo.2017.09.005&
+            - text: "]"
+          - listitem [ref=e335]:
+            - generic [ref=e336]:
+              - text: "Grgic J., Mikulic P., Podnar H., Pedisic Z. (2017). Effects of linear and daily undulating periodized resistance training programs on measures of muscle hypertrophy: a systematic review and meta-analysis."
+              - emphasis [ref=e337]: PeerJ
+              - text: 5:e3695. 10.7717/peerj.3695
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e338] [cursor=pointer]:
+              - /url: https://doi.org/10.7717/peerj.3695
+            - text: "] ["
+            - link "PMC free article" [ref=e339] [cursor=pointer]:
+              - /url: /articles/PMC5571788/
+            - text: "] ["
+            - link "PubMed" [ref=e340] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28848690/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e341] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=PeerJ&title=Effects%20of%20linear%20and%20daily%20undulating%20periodized%20resistance%20training%20programs%20on%20measures%20of%20muscle%20hypertrophy:%20a%20systematic%20review%20and%20meta-analysis.&author=J.%20Grgic&author=P.%20Mikulic&author=H.%20Podnar&author=Z.%20Pedisic&volume=5&issue=e3695&publication_year=2017&pmid=28848690&doi=10.7717/peerj.3695&
+            - text: "]"
+          - listitem [ref=e342]:
+            - generic [ref=e343]:
+              - text: Grgic J., Schoenfeld B. J. (2018). Are the hypertrophic adaptations to high and low-load resistance training muscle fiber type specific?
+              - emphasis [ref=e344]: Front. Physiol.
+              - text: 9:402. 10.3389/fphys.2018.00402
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e345] [cursor=pointer]:
+              - /url: https://doi.org/10.3389/fphys.2018.00402
+            - text: "] ["
+            - link "PMC free article" [ref=e346] [cursor=pointer]:
+              - /url: /articles/PMC5915697/
+            - text: "] ["
+            - link "PubMed" [ref=e347] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29720946/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e348] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Front.%20Physiol.&title=Are%20the%20hypertrophic%20adaptations%20to%20high%20and%20low-load%20resistance%20training%20muscle%20fiber%20type%20specific?&author=J.%20Grgic&author=B.%20J.%20Schoenfeld&volume=9&issue=402&publication_year=2018&pmid=29720946&doi=10.3389/fphys.2018.00402&
+            - text: "]"
+          - listitem [ref=e349]:
+            - generic [ref=e350]:
+              - text: "Haff G. G. (2004). Roundtable discussion: periodization of training—part 1."
+              - emphasis [ref=e351]: Strength Cond. J.
+              - text: 26 50–69. 10.1519/00126548-200402000-00016
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e352] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/00126548-200402000-00016
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e353] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Strength%20Cond.%20J.&title=Roundtable%20discussion:%20periodization%20of%20training%E2%80%94part%201.&author=G.%20G.%20Haff&volume=26&publication_year=2004&pages=50-69&doi=10.1519/00126548-200402000-00016&
+            - text: "]"
+          - listitem [ref=e354]:
+            - generic [ref=e355]:
+              - text: Harries S. K., Lubans D. R., Callister R. (2015). Systematic review and meta-analysis of linear and undulating periodized resistance training programs on muscular strength.
+              - emphasis [ref=e356]: J. Strength Cond. Res.
+              - text: 29 1113–1125. 10.1519/JSC.0000000000000712
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e357] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/JSC.0000000000000712
+            - text: "] ["
+            - link "PubMed" [ref=e358] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/25268290/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e359] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Strength%20Cond.%20Res.&title=Systematic%20review%20and%20meta-analysis%20of%20linear%20and%20undulating%20periodized%20resistance%20training%20programs%20on%20muscular%20strength.&author=S.%20K.%20Harries&author=D.%20R.%20Lubans&author=R.%20Callister&volume=29&publication_year=2015&pages=1113-1125&pmid=25268290&doi=10.1519/JSC.0000000000000712&
+            - text: "]"
+          - listitem [ref=e360]:
+            - generic [ref=e361]:
+              - text: "Helms E. R., Fitschen P. J., Aragon A. A., Cronin J., Schoenfeld B. J. (2015). Recommendations for natural bodybuilding contest preparation: resistance and cardiovascular training."
+              - emphasis [ref=e362]: J. Sports Med. Phys. Fitness
+              - text: 55 164–178.
+            - text: "["
+            - link "PubMed" [ref=e363] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/24998610/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e364] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Sports%20Med.%20Phys.%20Fitness&title=Recommendations%20for%20natural%20bodybuilding%20contest%20preparation:%20resistance%20and%20cardiovascular%20training.&author=E.%20R.%20Helms&author=P.%20J.%20Fitschen&author=A.%20A.%20Aragon&author=J.%20Cronin&author=B.%20J.%20Schoenfeld&volume=55&publication_year=2015&pages=164-178&pmid=24998610&
+            - text: "]"
+          - listitem [ref=e365]:
+            - generic [ref=e366]:
+              - text: Hunter G. R., McCarthy J. P., Bamman M. M. (2004). Effects of resistance training on older adults.
+              - emphasis [ref=e367]: Sports Med.
+              - text: 34 329–348. 10.2165/00007256-200434050-00005
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e368] [cursor=pointer]:
+              - /url: https://doi.org/10.2165/00007256-200434050-00005
+            - text: "] ["
+            - link "PubMed" [ref=e369] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/15107011/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e370] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=Effects%20of%20resistance%20training%20on%20older%20adults.&author=G.%20R.%20Hunter&author=J.%20P.%20McCarthy&author=M.%20M.%20Bamman&volume=34&publication_year=2004&pages=329-348&pmid=15107011&doi=10.2165/00007256-200434050-00005&
+            - text: "]"
+          - listitem [ref=e371]:
+            - generic [ref=e372]:
+              - text: Hunter G. R., Wetzstein C. J., McLafferty J. C., Zuckerman P. A., Landers K. A., Bamman M. M. (2001). High-resistance versus variable-resistance training in older adults.
+              - emphasis [ref=e373]: Med. Sci. Sports Exerc.
+              - text: 33 1759–1764. 10.1097/00005768-200110000-00022
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e374] [cursor=pointer]:
+              - /url: https://doi.org/10.1097/00005768-200110000-00022
+            - text: "] ["
+            - link "PubMed" [ref=e375] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/11581563/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e376] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Med.%20Sci.%20Sports%20Exerc.&title=High-resistance%20versus%20variable-resistance%20training%20in%20older%20adults.&author=G.%20R.%20Hunter&author=C.%20J.%20Wetzstein&author=J.%20C.%20McLafferty&author=P.%20A.%20Zuckerman&author=K.%20A.%20Landers&volume=33&publication_year=2001&pages=1759-1764&pmid=11581563&doi=10.1097/00005768-200110000-00022&
+            - text: "]"
+          - listitem [ref=e377]:
+            - generic [ref=e378]:
+              - text: "Kiely J. (2012). Periodization paradigms in the 21st century: evidence-led or tradition-driven?"
+              - emphasis [ref=e379]: Int. J. Sports Physiol. Perform.
+              - text: 7 242–250. 10.1123/ijspp.7.3.242
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e380] [cursor=pointer]:
+              - /url: https://doi.org/10.1123/ijspp.7.3.242
+            - text: "] ["
+            - link "PubMed" [ref=e381] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/22356774/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e382] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Int.%20J.%20Sports%20Physiol.%20Perform.&title=Periodization%20paradigms%20in%20the%2021st%20century:%20evidence-led%20or%20tradition-driven?&author=J.%20Kiely&volume=7&publication_year=2012&pages=242-250&pmid=22356774&doi=10.1123/ijspp.7.3.242&
+            - text: "]"
+          - listitem [ref=e383]:
+            - generic [ref=e384]:
+              - text: Kraemer W. J., Deschenes M. R., Fleck S. J. (1988). Physiological adaptations to resistance exercise. Implications for athletic conditioning.
+              - emphasis [ref=e385]: Sports Med.
+              - text: 6 246–256. 10.2165/00007256-198806040-00006
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e386] [cursor=pointer]:
+              - /url: https://doi.org/10.2165/00007256-198806040-00006
+            - text: "] ["
+            - link "PubMed" [ref=e387] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/3067312/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e388] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=Physiological%20adaptations%20to%20resistance%20exercise.%20Implications%20for%20athletic%20conditioning.&author=W.%20J.%20Kraemer&author=M.%20R.%20Deschenes&author=S.%20J.%20Fleck&volume=6&publication_year=1988&pages=246-256&pmid=3067312&doi=10.2165/00007256-198806040-00006&
+            - text: "]"
+          - listitem [ref=e389]:
+            - generic [ref=e390]:
+              - text: Kraemer W. J., Häkkinen K., Triplett-McBride N. T., Fry A. C., Koziris L. P., Ratamess N. A., et al. (2003). Physiological changes with periodized resistance training in women tennis players.
+              - emphasis [ref=e391]: Med. Sci. Sports Exerc.
+              - text: 35 157–168. 10.1097/00005768-200301000-00024
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e392] [cursor=pointer]:
+              - /url: https://doi.org/10.1097/00005768-200301000-00024
+            - text: "] ["
+            - link "PubMed" [ref=e393] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/12544650/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e394] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Med.%20Sci.%20Sports%20Exerc.&title=Physiological%20changes%20with%20periodized%20resistance%20training%20in%20women%20tennis%20players.&author=W.%20J.%20Kraemer&author=K.%20H%C3%A4kkinen&author=N.%20T.%20Triplett-McBride&author=A.%20C.%20Fry&author=L.%20P.%20Koziris&volume=35&publication_year=2003&pages=157-168&pmid=12544650&doi=10.1097/00005768-200301000-00024&
+            - text: "]"
+          - listitem [ref=e395]:
+            - generic [ref=e396]:
+              - text: "Kraemer W. J., Ratamess N. A. (2004). Fundamentals of resistance training: progression and exercise prescription."
+              - emphasis [ref=e397]: Med. Sci. Sports Exerc.
+              - text: 36 674–688. 10.1249/01.MSS.0000121945.36635.61
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e398] [cursor=pointer]:
+              - /url: https://doi.org/10.1249/01.MSS.0000121945.36635.61
+            - text: "] ["
+            - link "PubMed" [ref=e399] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/15064596/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e400] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Med.%20Sci.%20Sports%20Exerc.&title=Fundamentals%20of%20resistance%20training:%20progression%20and%20exercise%20prescription.&author=W.%20J.%20Kraemer&author=N.%20A.%20Ratamess&volume=36&publication_year=2004&pages=674-688&pmid=15064596&doi=10.1249/01.MSS.0000121945.36635.61&
+            - text: "]"
+          - listitem [ref=e401]:
+            - generic [ref=e402]:
+              - text: Kraemer W. J., Ratamess N. A., French D. N. (2002). Resistance training for health and performance.
+              - emphasis [ref=e403]: Curr. Sports Med. Rep.
+              - text: 1 165–171. 10.1007/s11932-002-0017-7
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e404] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s11932-002-0017-7
+            - text: "] ["
+            - link "PubMed" [ref=e405] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/12831709/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e406] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Curr.%20Sports%20Med.%20Rep.&title=Resistance%20training%20for%20health%20and%20performance.&author=W.%20J.%20Kraemer&author=N.%20A.%20Ratamess&author=D.%20N.%20French&volume=1&publication_year=2002&pages=165-171&pmid=12831709&doi=10.1007/s11932-002-0017-7&
+            - text: "]"
+          - listitem [ref=e407]:
+            - generic [ref=e408]:
+              - text: "Krieger J. W. (2009). Single versus multiple sets of resistance exercise: a meta-regression."
+              - emphasis [ref=e409]: J. Strength Cond. Res.
+              - text: 23 1890–1901. 10.1519/JSC.0b013e3181b370be
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e410] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/JSC.0b013e3181b370be
+            - text: "] ["
+            - link "PubMed" [ref=e411] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/19661829/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e412] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Strength%20Cond.%20Res.&title=Single%20versus%20multiple%20sets%20of%20resistance%20exercise:%20a%20meta-regression.&author=J.%20W.%20Krieger&volume=23&publication_year=2009&pages=1890-1901&pmid=19661829&doi=10.1519/JSC.0b013e3181b370be&
+            - text: "]"
+          - listitem [ref=e413]:
+            - generic [ref=e414]:
+              - text: Morton R. W., Murphy K. T., McKellar S. R., Schoenfeld B. J., Henselmans M., Helms E., et al. (2018). A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults.
+              - emphasis [ref=e415]: Br. J. Sports Med.
+              - text: 52 376–384. 10.1136/bjsports-2017-097608
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e416] [cursor=pointer]:
+              - /url: https://doi.org/10.1136/bjsports-2017-097608
+            - text: "] ["
+            - link "PMC free article" [ref=e417] [cursor=pointer]:
+              - /url: /articles/PMC5867436/
+            - text: "] ["
+            - link "PubMed" [ref=e418] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28698222/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e419] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Br.%20J.%20Sports%20Med.&title=A%20systematic%20review,%20meta-analysis%20and%20meta-regression%20of%20the%20effect%20of%20protein%20supplementation%20on%20resistance%20training-induced%20gains%20in%20muscle%20mass%20and%20strength%20in%20healthy%20adults.&author=R.%20W.%20Morton&author=K.%20T.%20Murphy&author=S.%20R.%20McKellar&author=B.%20J.%20Schoenfeld&author=M.%20Henselmans&volume=52&publication_year=2018&pages=376-384&pmid=28698222&doi=10.1136/bjsports-2017-097608&
+            - text: "]"
+          - listitem [ref=e420]:
+            - generic [ref=e421]:
+              - text: "Mujika I., Padilla S. (2000). Detraining: loss of training-induced physiological and performance adaptations. Part I."
+              - emphasis [ref=e422]: Sports Med.
+              - text: 30 79–87. 10.2165/00007256-200030020-00002
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e423] [cursor=pointer]:
+              - /url: https://doi.org/10.2165/00007256-200030020-00002
+            - text: "] ["
+            - link "PubMed" [ref=e424] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/10966148/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e425] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=Detraining:%20loss%20of%20training-induced%20physiological%20and%20performance%20adaptations.%20Part%20I.&author=I.%20Mujika&author=S.%20Padilla&volume=30&publication_year=2000&pages=79-87&pmid=10966148&doi=10.2165/00007256-200030020-00002&
+            - text: "]"
+          - listitem [ref=e426]:
+            - generic [ref=e427]:
+              - text: "Murach K., Bagley J. (2015). Less is more: the physiological basis for tapering in endurance, strength, and power athletes."
+              - emphasis [ref=e428]: Sports
+              - text: 3 209–218. 10.3390/sports3030209
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e429] [cursor=pointer]:
+              - /url: https://doi.org/10.3390/sports3030209
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e430] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports&title=Less%20is%20more:%20the%20physiological%20basis%20for%20tapering%20in%20endurance,%20strength,%20and%20power%20athletes.&author=K.%20Murach&author=J.%20Bagley&volume=3&publication_year=2015&pages=209-218&doi=10.3390/sports3030209&
+            - text: "]"
+          - listitem [ref=e431]:
+            - generic [ref=e432]:
+              - text: "Naclerio F., Moody J., Chapman M. (2013). Applied periodization: a methodological approach."
+              - emphasis [ref=e433]: J. Hum. Sports Exerc.
+              - text: 8 350–366. 10.4100/jhse.2012.82.04
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e434] [cursor=pointer]:
+              - /url: https://doi.org/10.4100/jhse.2012.82.04
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e435] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Hum.%20Sports%20Exerc.&title=Applied%20periodization:%20a%20methodological%20approach.&author=F.%20Naclerio&author=J.%20Moody&author=M.%20Chapman&volume=8&publication_year=2013&pages=350-366&doi=10.4100/jhse.2012.82.04&
+            - text: "]"
+          - listitem [ref=e436]:
+            - generic [ref=e437]:
+              - text: Netreba A., Popov D., Bravyy Y., Lyubaeva E., Terada M., Ohira T., et al. (2013). Responses of knee extensor muscles to leg press training of various types in human.
+              - emphasis [ref=e438]: Ross. Fiziol. Zh. Im. I. M. Sechenova
+              - text: 99 406–416.
+            - text: "["
+            - link "PubMed" [ref=e439] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/23789443/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e440] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Ross.%20Fiziol.%20Zh.%20Im.%20I.%20M.%20Sechenova&title=Responses%20of%20knee%20extensor%20muscles%20to%20leg%20press%20training%20of%20various%20types%20in%20human.&author=A.%20Netreba&author=D.%20Popov&author=Y.%20Bravyy&author=E.%20Lyubaeva&author=M.%20Terada&volume=99&publication_year=2013&pages=406-416&pmid=23789443&
+            - text: "]"
+          - listitem [ref=e441]:
+            - generic [ref=e442]:
+              - text: "Nunes J. P., Ribeiro A. S., Schoenfeld B. J., Cyrino E. S. (2018). Comment on: “comparison of periodized and non-periodized resistance training on maximal strength: a meta-analysis.”."
+              - emphasis [ref=e443]: Sports Med.
+              - text: 48 491–494. 10.1007/s40279-017-0824-x
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e444] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s40279-017-0824-x
+            - text: "] ["
+            - link "PubMed" [ref=e445] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29178086/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e446] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=Comment%20on:%20%E2%80%9Ccomparison%20of%20periodized%20and%20non-periodized%20resistance%20training%20on%20maximal%20strength:%20a%20meta-analysis.%E2%80%9D.&author=J.%20P.%20Nunes&author=A.%20S.%20Ribeiro&author=B.%20J.%20Schoenfeld&author=E.%20S.%20Cyrino&volume=48&publication_year=2018&pages=491-494&pmid=29178086&doi=10.1007/s40279-017-0824-x&
+            - text: "]"
+          - listitem [ref=e447]:
+            - generic [ref=e448]:
+              - text: Ogasawara R., Yasuda T., Ishii N., Abe T. (2013). Comparison of muscle hypertrophy following 6-month of continuous and periodic strength training.
+              - emphasis [ref=e449]: Eur. J. Appl. Physiol.
+              - text: 113 975–985. 10.1007/s00421-012-2511-9
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e450] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s00421-012-2511-9
+            - text: "] ["
+            - link "PubMed" [ref=e451] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/23053130/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e452] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Eur.%20J.%20Appl.%20Physiol.&title=Comparison%20of%20muscle%20hypertrophy%20following%206-month%20of%20continuous%20and%20periodic%20strength%20training.&author=R.%20Ogasawara&author=T.%20Yasuda&author=N.%20Ishii&author=T.%20Abe&volume=113&publication_year=2013&pages=975-985&pmid=23053130&doi=10.1007/s00421-012-2511-9&
+            - text: "]"
+          - listitem [ref=e453]:
+            - generic [ref=e454]:
+              - text: "Ogborn D., Schoenfeld B. J. (2014). The role of fiber types in muscle hypertrophy: implications for loading strategies."
+              - emphasis [ref=e455]: Strength Cond. J.
+              - text: 36 20–25. 10.1519/SSC.0000000000000030
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e456] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/SSC.0000000000000030
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e457] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Strength%20Cond.%20J.&title=The%20role%20of%20fiber%20types%20in%20muscle%20hypertrophy:%20implications%20for%20loading%20strategies.&author=D.%20Ogborn&author=B.%20J.%20Schoenfeld&volume=36&publication_year=2014&pages=20-25&doi=10.1519/SSC.0000000000000030&
+            - text: "]"
+          - listitem [ref=e458]:
+            - generic [ref=e459]:
+              - text: "Pedemonte J. (1986). Foundations of training periodization part I: historical outline."
+              - emphasis [ref=e460]: NSCA J.
+              - text: 8 62–66.
+            - text: "["
+            - link "External, opens in a new tab. Google Scholar" [ref=e461] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=NSCA%20J.&title=Foundations%20of%20training%20periodization%20part%20I:%20historical%20outline.&author=J.%20Pedemonte&volume=8&publication_year=1986&pages=62-66&
+            - text: "]"
+          - listitem [ref=e462]:
+            - generic [ref=e463]:
+              - text: "Peterson M. D., Rhea M. R., Alvar B. A. (2004). Maximizing strength development in athletes: a meta-analysis to determine the dose-response relationship."
+              - emphasis [ref=e464]: J. Strength Cond. Res.
+              - text: 18 377–382. 10.1519/00124278-200405000-00031
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e465] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/00124278-200405000-00031
+            - text: "] ["
+            - link "PubMed" [ref=e466] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/15142003/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e467] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Strength%20Cond.%20Res.&title=Maximizing%20strength%20development%20in%20athletes:%20a%20meta-analysis%20to%20determine%20the%20dose-response%20relationship.&author=M.%20D.%20Peterson&author=M.%20R.%20Rhea&author=B.%20A.%20Alvar&volume=18&publication_year=2004&pages=377-382&pmid=15142003&doi=10.1519/00124278-200405000-00031&
+            - text: "]"
+          - listitem [ref=e468]:
+            - generic [ref=e469]:
+              - text: Plisk S. S., Stone M. H. (2003). Periodization strategies.
+              - emphasis [ref=e470]: Strength Cond. J.
+              - text: 25 19–37. 10.1519/00126548-200312000-00005
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e471] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/00126548-200312000-00005
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e472] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Strength%20Cond.%20J.&title=Periodization%20strategies.&author=S.%20S.%20Plisk&author=M.%20H.%20Stone&volume=25&publication_year=2003&pages=19-37&doi=10.1519/00126548-200312000-00005&
+            - text: "]"
+          - listitem [ref=e473]:
+            - generic [ref=e474]:
+              - text: Poliquin C. (1988). Five steps to increasing the effectiveness of your strength training program.
+              - emphasis [ref=e475]: NSCA J.
+              - text: 10 34–39. 10.1519/0744-0049(1988)010<0034:FSTITE>2.3.CO;2
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e476] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/0744-0049(1988)010<0034:FSTITE>2.3.CO;2
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e477] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=NSCA%20J.&title=Five%20steps%20to%20increasing%20the%20effectiveness%20of%20your%20strength%20training%20program.&author=C.%20Poliquin&volume=10&publication_year=1988&pages=34-39&doi=10.1519/0744-0049(1988)010<0034:FSTITE>2.3.CO;2&
+            - text: "]"
+          - listitem [ref=e478]:
+            - generic [ref=e479]:
+              - text: Pritchard H., Keogh J., Barnes M., McGuigan M. (2015). Effects and mechanisms of tapering in maximizing muscular strength.
+              - emphasis [ref=e480]: Strength Cond. J.
+              - text: 37 72–83. 10.1519/SSC.0000000000000125
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e481] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/SSC.0000000000000125
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e482] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Strength%20Cond.%20J.&title=Effects%20and%20mechanisms%20of%20tapering%20in%20maximizing%20muscular%20strength.&author=H.%20Pritchard&author=J.%20Keogh&author=M.%20Barnes&author=M.%20McGuigan&volume=37&publication_year=2015&pages=72-83&doi=10.1519/SSC.0000000000000125&
+            - text: "]"
+          - listitem [ref=e483]:
+            - generic [ref=e484]:
+              - text: "Ralston G. W., Kilgore L., Wyatt F. B., Baker J. S. (2017). The effect of weekly set volume on strength gain: a meta-analysis."
+              - emphasis [ref=e485]: Sports Med.
+              - text: 47 2585–2601. 10.1007/s40279-017-0762-7
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e486] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s40279-017-0762-7
+            - text: "] ["
+            - link "PMC free article" [ref=e487] [cursor=pointer]:
+              - /url: /articles/PMC5684266/
+            - text: "] ["
+            - link "PubMed" [ref=e488] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28755103/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e489] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=The%20effect%20of%20weekly%20set%20volume%20on%20strength%20gain:%20a%20meta-analysis.&author=G.%20W.%20Ralston&author=L.%20Kilgore&author=F.%20B.%20Wyatt&author=J.%20S.%20Baker&volume=47&publication_year=2017&pages=2585-2601&pmid=28755103&doi=10.1007/s40279-017-0762-7&
+            - text: "]"
+          - listitem [ref=e490]:
+            - generic [ref=e491]:
+              - text: Rhea M. R., Alderman B. L. (2004). A meta-analysis of periodized versus nonperiodized strength and power training programs.
+              - emphasis [ref=e492]: Res. Quart. Exerc. Sport
+              - text: 75 413–422. 10.1080/02701367.2004.10609174
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e493] [cursor=pointer]:
+              - /url: https://doi.org/10.1080/02701367.2004.10609174
+            - text: "] ["
+            - link "PubMed" [ref=e494] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/15673040/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e495] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Res.%20Quart.%20Exerc.%20Sport&title=A%20meta-analysis%20of%20periodized%20versus%20nonperiodized%20strength%20and%20power%20training%20programs.&author=M.%20R.%20Rhea&author=B.%20L.%20Alderman&volume=75&publication_year=2004&pages=413-422&pmid=15673040&doi=10.1080/02701367.2004.10609174&
+            - text: "]"
+          - listitem [ref=e496]:
+            - generic [ref=e497]:
+              - text: Rhea M. R., Alvar B. A., Burkett L. N., Ball S. D. (2003). A meta-analysis to determine the dose response for strength development.
+              - emphasis [ref=e498]: Med. Sci. Sports Exerc.
+              - text: 35 456–464. 10.1249/01.MSS.0000053727.63505.D4
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e499] [cursor=pointer]:
+              - /url: https://doi.org/10.1249/01.MSS.0000053727.63505.D4
+            - text: "] ["
+            - link "PubMed" [ref=e500] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/12618576/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e501] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Med.%20Sci.%20Sports%20Exerc.&title=A%20meta-analysis%20to%20determine%20the%20dose%20response%20for%20strength%20development.&author=M.%20R.%20Rhea&author=B.%20A.%20Alvar&author=L.%20N.%20Burkett&author=S.%20D.%20Ball&volume=35&publication_year=2003&pages=456-464&pmid=12618576&doi=10.1249/01.MSS.0000053727.63505.D4&
+            - text: "]"
+          - listitem [ref=e502]:
+            - generic [ref=e503]:
+              - text: Rhea M. R., Ball S. D., Phillips W. T., Burkett L. N. (2002). A comparison of linear and daily undulating periodized programs with equated volume and intensity for strength.
+              - emphasis [ref=e504]: J. Strength Cond. Res.
+              - text: 16 250–255.
+            - text: "["
+            - link "PubMed" [ref=e505] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/11991778/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e506] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Strength%20Cond.%20Res.&title=A%20comparison%20of%20linear%20and%20daily%20undulating%20periodized%20programs%20with%20equated%20volume%20and%20intensity%20for%20strength.&author=M.%20R.%20Rhea&author=S.%20D.%20Ball&author=W.%20T.%20Phillips&author=L.%20N.%20Burkett&volume=16&publication_year=2002&pages=250-255&pmid=11991778&
+            - text: "]"
+          - listitem [ref=e507]:
+            - generic [ref=e508]:
+              - text: Schoenfeld B. J., Contreras B., Ogborn D., Galpin A., Krieger J., Sonmez G. T. (2016). Effects of varied versus constant loading zones on muscular adaptations in trained men.
+              - emphasis [ref=e509]: Int. J. Sports Med.
+              - text: 37 442–447. 10.1055/s-0035-1569369
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e510] [cursor=pointer]:
+              - /url: https://doi.org/10.1055/s-0035-1569369
+            - text: "] ["
+            - link "PubMed" [ref=e511] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/27042999/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e512] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Int.%20J.%20Sports%20Med.&title=Effects%20of%20varied%20versus%20constant%20loading%20zones%20on%20muscular%20adaptations%20in%20trained%20men.&author=B.%20J.%20Schoenfeld&author=B.%20Contreras&author=D.%20Ogborn&author=A.%20Galpin&author=J.%20Krieger&volume=37&publication_year=2016&pages=442-447&pmid=27042999&doi=10.1055/s-0035-1569369&
+            - text: "]"
+          - listitem [ref=e513]:
+            - generic [ref=e514]:
+              - text: "Schoenfeld B. J., Grgic J., Ogborn D., Krieger J. W. (2017). Strength and hypertrophy adaptations between low-vs. high-load resistance training: a systematic review and meta-analysis."
+              - emphasis [ref=e515]: J. Strength Cond. Res.
+              - text: 31 3508–3523. 10.1519/JSC.0000000000002200
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e516] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/JSC.0000000000002200
+            - text: "] ["
+            - link "PubMed" [ref=e517] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28834797/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e518] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Strength%20Cond.%20Res.&title=Strength%20and%20hypertrophy%20adaptations%20between%20low-vs.%20high-load%20resistance%20training:%20a%20systematic%20review%20and%20meta-analysis.&author=B.%20J.%20Schoenfeld&author=J.%20Grgic&author=D.%20Ogborn&author=J.%20W.%20Krieger&volume=31&publication_year=2017&pages=3508-3523&pmid=28834797&doi=10.1519/JSC.0000000000002200&
+            - text: "]"
+          - listitem [ref=e519]:
+            - generic [ref=e520]:
+              - text: Smith D. J. (2003). A framework for understanding the training process leading to elite performance.
+              - emphasis [ref=e521]: Sports Med.
+              - text: 33 1103–1126. 10.2165/00007256-200333150-00003
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e522] [cursor=pointer]:
+              - /url: https://doi.org/10.2165/00007256-200333150-00003
+            - text: "] ["
+            - link "PubMed" [ref=e523] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/14719980/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e524] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=A%20framework%20for%20understanding%20the%20training%20process%20leading%20to%20elite%20performance.&author=D.%20J.%20Smith&volume=33&publication_year=2003&pages=1103-1126&pmid=14719980&doi=10.2165/00007256-200333150-00003&
+            - text: "]"
+          - listitem [ref=e525]:
+            - generic [ref=e526]:
+              - text: "Stone M. H., Keith R. E., Kearney J. T., Fleck S. J., Wilson G. D., Triplett N. T. (1991). Overtraining: a review of the signs, symptoms and possible causes."
+              - emphasis [ref=e527]: J. Appl. Sport Sci. Res.
+              - text: 5 35–50. 10.1519/00124278-199102000-00006
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e528] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/00124278-199102000-00006
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e529] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Appl.%20Sport%20Sci.%20Res.&title=Overtraining:%20a%20review%20of%20the%20signs,%20symptoms%20and%20possible%20causes.&author=M.%20H.%20Stone&author=R.%20E.%20Keith&author=J.%20T.%20Kearney&author=S.%20J.%20Fleck&author=G.%20D.%20Wilson&volume=5&publication_year=1991&pages=35-50&doi=10.1519/00124278-199102000-00006&
+            - text: "]"
+          - listitem [ref=e530]:
+            - generic [ref=e531]:
+              - text: "Stone M. H., O’Bryant H. S., Schilling B. K., Johnson R. L., Pierce K. C., Haff G. G., et al. (1999). Periodization: effects of manipulating volume and intensity. Part 1."
+              - emphasis [ref=e532]: Strength Cond. J.
+              - text: 21 56–62.
+            - text: "["
+            - link "External, opens in a new tab. Google Scholar" [ref=e533] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Strength%20Cond.%20J.&title=Periodization:%20effects%20of%20manipulating%20volume%20and%20intensity.%20Part%201.&author=M.%20H.%20Stone&author=H.%20S.%20O%E2%80%99Bryant&author=B.%20K.%20Schilling&author=R.%20L.%20Johnson&author=K.%20C.%20Pierce&volume=21&publication_year=1999&pages=56-62&
+            - text: "]"
+          - listitem [ref=e534]:
+            - generic [ref=e535]:
+              - text: Stone M. H., Wathen D. (2001). Letter to the editor.
+              - emphasis [ref=e536]: Strength Cond. J.
+              - text: 23 7–9. 10.1519/00126548-200110000-00001
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e537] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/00126548-200110000-00001
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e538] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Strength%20Cond.%20J.&title=Letter%20to%20the%20editor.&author=M.%20H.%20Stone&author=D.%20Wathen&volume=23&publication_year=2001&pages=7-9&doi=10.1519/00126548-200110000-00001&
+            - text: "]"
+          - listitem [ref=e539]:
+            - generic [ref=e540]:
+              - text: "Suchomel T. J., Nimphius S., Bellon C. R., Stone M. H. (2018). The importance of muscular strength: training considerations."
+              - emphasis [ref=e541]: Sports Med.
+              - text: 48 765–785. 10.1007/s40279-018-0862-z
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e542] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s40279-018-0862-z
+            - text: "] ["
+            - link "PubMed" [ref=e543] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29372481/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e544] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=The%20importance%20of%20muscular%20strength:%20training%20considerations.&author=T.%20J.%20Suchomel&author=S.%20Nimphius&author=C.%20R.%20Bellon&author=M.%20H.%20Stone&volume=48&publication_year=2018&pages=765-785&pmid=29372481&doi=10.1007/s40279-018-0862-z&
+            - text: "]"
+          - listitem [ref=e545]:
+            - generic [ref=e546]:
+              - text: Suchomel T. J., Nimphius S., Stone M. H. (2016). The importance of muscular strength in athletic performance.
+              - emphasis [ref=e547]: Sports Med.
+              - text: 46 1419–1449. 10.1007/s40279-016-0486-0
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e548] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s40279-016-0486-0
+            - text: "] ["
+            - link "PubMed" [ref=e549] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/26838985/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e550] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=The%20importance%20of%20muscular%20strength%20in%20athletic%20performance.&author=T.%20J.%20Suchomel&author=S.%20Nimphius&author=M.%20H.%20Stone&volume=46&publication_year=2016&pages=1419-1449&pmid=26838985&doi=10.1007/s40279-016-0486-0&
+            - text: "]"
+          - listitem [ref=e551]:
+            - generic [ref=e552]:
+              - text: "Tan B. (1999). Manipulating resistance training program variables to optimize maximum strength in men: a review."
+              - emphasis [ref=e553]: J. Strength Cond. Res.
+              - text: 13 289–304. 10.1519/00124278-199908000-00019
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e554] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/00124278-199908000-00019
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e555] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=J.%20Strength%20Cond.%20Res.&title=Manipulating%20resistance%20training%20program%20variables%20to%20optimize%20maximum%20strength%20in%20men:%20a%20review.&author=B.%20Tan&volume=13&publication_year=1999&pages=289-304&doi=10.1519/00124278-199908000-00019&
+            - text: "]"
+          - listitem [ref=e556]:
+            - generic [ref=e557]:
+              - text: "Turner A. (2011). The science and practice of periodization: a brief review."
+              - emphasis [ref=e558]: Strength Cond. J.
+              - text: 33 34–46. 10.1519/SSC.0b013e3182079cdf
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e559] [cursor=pointer]:
+              - /url: https://doi.org/10.1519/SSC.0b013e3182079cdf
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e560] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Strength%20Cond.%20J.&title=The%20science%20and%20practice%20of%20periodization:%20a%20brief%20review.&author=A.%20Turner&volume=33&publication_year=2011&pages=34-46&doi=10.1519/SSC.0b013e3182079cdf&
+            - text: "]"
+          - listitem [ref=e561]:
+            - generic [ref=e562]:
+              - text: "Vinogradova O. L., Popov D. V., Netreba A. I., Tsvirkun D. V., Kurochkina N. S., Bachinin A. V., et al. (2013). Optimization of training: development of a new partial load mode of strength training."
+              - emphasis [ref=e563]: Fiziol. Cheloveka.
+              - text: 39 71–85. 10.1134/S0362119713050162
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e564] [cursor=pointer]:
+              - /url: https://doi.org/10.1134/S0362119713050162
+            - text: "] ["
+            - link "PubMed" [ref=e565] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/25509874/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e566] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Fiziol.%20Cheloveka.&title=Optimization%20of%20training:%20development%20of%20a%20new%20partial%20load%20mode%20of%20strength%20training.&author=O.%20L.%20Vinogradova&author=D.%20V.%20Popov&author=A.%20I.%20Netreba&author=D.%20V.%20Tsvirkun&author=N.%20S.%20Kurochkina&volume=39&publication_year=2013&pages=71-85&pmid=25509874&doi=10.1134/S0362119713050162&
+            - text: "]"
+          - listitem [ref=e567]:
+            - generic [ref=e568]:
+              - text: "Westcott W. L. (2012). Resistance training is medicine: effects of strength training on health."
+              - emphasis [ref=e569]: Curr. Sports Med. Rep.
+              - text: 11 209–216. 10.1249/JSR.0b013e31825dabb8
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e570] [cursor=pointer]:
+              - /url: https://doi.org/10.1249/JSR.0b013e31825dabb8
+            - text: "] ["
+            - link "PubMed" [ref=e571] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/22777332/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e572] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Curr.%20Sports%20Med.%20Rep.&title=Resistance%20training%20is%20medicine:%20effects%20of%20strength%20training%20on%20health.&author=W.%20L.%20Westcott&volume=11&publication_year=2012&pages=209-216&pmid=22777332&doi=10.1249/JSR.0b013e31825dabb8&
+            - text: "]"
+          - listitem [ref=e573]:
+            - generic [ref=e574]:
+              - text: "Williams T. D., Tolusso D. V., Fedewa M. V., Esco M. R. (2017). Comparison of periodized and non-periodized resistance training on maximal strength: a meta-analysis."
+              - emphasis [ref=e575]: Sports Med.
+              - text: 47 2083–2100. 10.1007/s40279-017-0734-y
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e576] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s40279-017-0734-y
+            - text: "] ["
+            - link "PubMed" [ref=e577] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28497285/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e578] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=Comparison%20of%20periodized%20and%20non-periodized%20resistance%20training%20on%20maximal%20strength:%20a%20meta-analysis.&author=T.%20D.%20Williams&author=D.%20V.%20Tolusso&author=M.%20V.%20Fedewa&author=M.%20R.%20Esco&volume=47&publication_year=2017&pages=2083-2100&pmid=28497285&doi=10.1007/s40279-017-0734-y&
+            - text: "]"
+          - listitem [ref=e579]:
+            - generic [ref=e580]:
+              - text: "Williams T. D., Tolusso D. V., Fedewa M. V., Esco M. R. (2018). Author’s reply to Nunes et al.: comment on: “Comparison of periodized and non-periodized resistance training on maximal strength: a meta-analysis.”."
+              - emphasis [ref=e581]: Sports Med.
+              - text: 48 495–496. 10.1007/s40279-017-0822-z
+            - text: "["
+            - link "External, opens in a new tab. DOI" [ref=e582] [cursor=pointer]:
+              - /url: https://doi.org/10.1007/s40279-017-0822-z
+            - text: "] ["
+            - link "PubMed" [ref=e583] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29178085/
+            - text: "] ["
+            - link "External, opens in a new tab. Google Scholar" [ref=e584] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar_lookup?journal=Sports%20Med.&title=Author%E2%80%99s%20reply%20to%20Nunes%20et%20al.:%20comment%20on:%20%E2%80%9CComparison%20of%20periodized%20and%20non-periodized%20resistance%20training%20on%20maximal%20strength:%20a%20meta-analysis.%E2%80%9D.&author=T.%20D.%20Williams&author=D.%20V.%20Tolusso&author=M.%20V.%20Fedewa&author=M.%20R.%20Esco&volume=48&publication_year=2018&pages=495-496&pmid=29178085&doi=10.1007/s40279-017-0822-z&
+            - text: "]"
+    - generic [ref=e585]:
+      - separator [ref=e586]
+      - paragraph [ref=e587]:
+        - text: Articles from Frontiers in Physiology are provided here courtesy of
+        - strong [ref=e588]: Frontiers Media SA

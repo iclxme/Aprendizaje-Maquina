@@ -1,0 +1,28 @@
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - banner [ref=e7]
+      - navigation [ref=e11]
+  - main [ref=e36]:
+    - generic [ref=e38]:
+      - link "Rulebook Home" [ref=e39] [cursor=pointer]:
+        - /url: https://official.nba.com/rulebook/
+      - text: "> RULE NO. 7: Shot Clock"
+    - generic [ref=e40]:
+      - generic [ref=e41]
+      - generic [ref=e80]
+  - navigation [ref=e145]:
+    - generic [ref=e146]:
+      - list [ref=e148]
+      - list [ref=e162]
+      - list [ref=e174]
+  - contentinfo [ref=e183]:
+    - generic [ref=e184]:
+      - paragraph [ref=e185]: Copyright © 2026 NBA Media Ventures, LLC. All rights reserved. No portion of NBA.com may be duplicated, redistributed or manipulated in any form.
+      - paragraph [ref=e186]
+  - region "Cookie banner" [active] [ref=e190]:
+    - dialog "We Care About Your Privacy" [ref=e191]:
+      - generic [ref=e193]
+      - button "Close" [ref=e209] [cursor=pointer]

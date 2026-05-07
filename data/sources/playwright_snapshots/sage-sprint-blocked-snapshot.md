@@ -1,0 +1,5 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]
+  - contentinfo [ref=e14]:
+    - generic [ref=e16]

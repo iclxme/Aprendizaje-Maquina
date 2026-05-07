@@ -1,0 +1,198 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - region "Official website of the United States government" [ref=e3]:
+    - generic [ref=e6]:
+      - img [ref=e8]
+      - paragraph [ref=e10]: An official website of the United States government
+      - button "Here's how you know" [ref=e11] [cursor=pointer]
+  - banner [ref=e12]:
+    - generic [ref=e14]:
+      - link "NCBI home page" [ref=e15] [cursor=pointer]:
+        - /url: https://www.ncbi.nlm.nih.gov/
+        - img "NCBI home page" [ref=e16]
+      - generic [ref=e17]:
+        - button "Show search overlay" [ref=e18] [cursor=pointer]:
+          - img
+          - text: Search
+        - button "Show login menu" [ref=e20] [cursor=pointer]:
+          - img
+          - generic [ref=e21]: Log in
+    - navigation "Primary navigation" [ref=e22]:
+      - paragraph [ref=e23]: Primary site navigation
+  - region "PMC Header with search box" [ref=e24]:
+    - generic [ref=e25]:
+      - link "PMC Home" [ref=e28] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e29]:
+        - search [ref=e30]:
+          - generic [ref=e31]: Search PMC Full-Text Archive
+          - combobox "Search PMC Full-Text Archive" [ref=e33]:
+            - listbox "Suggestions"
+          - button "Search in PMC" [ref=e34] [cursor=pointer]:
+            - generic [ref=e35]: Search in PMC
+        - list [ref=e37]:
+          - listitem [ref=e38]:
+            - link "Journal List" [ref=e39] [cursor=pointer]:
+              - /url: /journals/
+            - text: "|"
+          - listitem [ref=e40]:
+            - link "User Guide" [ref=e41] [cursor=pointer]:
+              - /url: /about/userguide/
+  - generic [ref=e44]:
+    - generic [ref=e46]:
+      - complementary "Disclaimer note" [ref=e49]:
+        - text: As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+        - text: "Learn more:"
+        - link "PMC Disclaimer" [ref=e50] [cursor=pointer]:
+          - /url: /about/disclaimer/
+        - text: "|"
+        - link "PMC Copyright Notice" [ref=e51] [cursor=pointer]:
+          - /url: /about/copyright/
+      - main [ref=e53]:
+        - region "Journal banner" [ref=e54]:
+          - img "Frontiers in Physiology logo" [ref=e55]
+          - generic:
+            - link "Link to Frontiers in Physiology":
+              - /url: http://www.frontiersin.org/physiology
+        - article [ref=e56]:
+          - region "Article citation and metadata" [ref=e57]:
+            - generic [ref=e59]
+            - generic [ref=e64]
+          - region "Article content" [ref=e80]:
+            - generic [ref=e81]
+            - generic [ref=e585]
+    - region "Article resources and navigation" [ref=e590]:
+      - generic [ref=e592]:
+        - heading "ACTIONS" [level=2] [ref=e593]
+        - list [ref=e594]:
+          - listitem [ref=e595]:
+            - link "View on publisher site icon View on publisher site" [ref=e596] [cursor=pointer]:
+              - /url: https://doi.org/10.3389/fphys.2019.00013
+          - listitem [ref=e598]:
+            - link "Download PDF icon PDF (230.8 KB)" [ref=e599] [cursor=pointer]:
+              - /url: pdf/fphys-10-00013.pdf
+          - listitem [ref=e601]:
+            - button "Open dialog with citation text in different styles" [ref=e602] [cursor=pointer]
+          - listitem [ref=e604]:
+            - button "Save article in MyNCBI collections." [ref=e605] [cursor=pointer]
+          - listitem [ref=e607]:
+            - button "Show article permalink" [ref=e608] [cursor=pointer]
+      - generic [ref=e610]:
+        - heading "RESOURCES" [level=2] [ref=e611]
+        - generic [ref=e612]:
+          - heading "Similar articles" [level=3] [ref=e613]:
+            - button "Similar articles" [ref=e614] [cursor=pointer]
+          - heading "Cited by other articles" [level=3] [ref=e615]:
+            - button "Cited by other articles" [ref=e616] [cursor=pointer]
+          - heading "Links to NCBI Databases" [level=3] [ref=e617]:
+            - button "Links to NCBI Databases" [ref=e618] [cursor=pointer]
+      - navigation "On this page" [ref=e620]:
+        - heading "On this page" [level=2] [ref=e621]
+        - list [ref=e622]:
+          - listitem [ref=e623]:
+            - link "Abstract" [ref=e624] [cursor=pointer]:
+              - /url: "#abstract1"
+          - listitem [ref=e625]:
+            - link "Introduction" [ref=e626] [cursor=pointer]:
+              - /url: "#sec1"
+          - listitem [ref=e627]:
+            - link "An Overview of Periodization" [ref=e628] [cursor=pointer]:
+              - /url: "#sec2"
+          - listitem [ref=e629]:
+            - link "Periodization for Enhancing Muscular Strength" [ref=e630] [cursor=pointer]:
+              - /url: "#sec6"
+          - listitem [ref=e631]:
+            - link "Periodization for Enhancing Skeletal Muscle Hypertrophy" [ref=e632] [cursor=pointer]:
+              - /url: "#sec10"
+          - listitem [ref=e633]:
+            - link "Limitations and Directions for Future Research" [ref=e634] [cursor=pointer]:
+              - /url: "#sec14"
+          - listitem [ref=e635]:
+            - link "Conclusion" [ref=e636] [cursor=pointer]:
+              - /url: "#sec15"
+          - listitem [ref=e637]:
+            - link "Author Contributions" [ref=e638] [cursor=pointer]:
+              - /url: "#sec16"
+          - listitem [ref=e639]:
+            - link "Conflict of Interest Statement" [ref=e640] [cursor=pointer]:
+              - /url: "#sec17"
+          - listitem [ref=e641]:
+            - link "References" [ref=e642] [cursor=pointer]:
+              - /url: "#ref-list1"
+  - contentinfo [ref=e643]:
+    - generic [ref=e644]:
+      - generic [ref=e645]: Follow NCBI
+      - generic [ref=e646]:
+        - link "NCBI on X (formerly known as Twitter)" [ref=e647] [cursor=pointer]:
+          - /url: https://twitter.com/ncbi
+          - img [ref=e648]
+          - generic [ref=e649]: NCBI on X (formerly known as Twitter)
+        - link "NCBI on Facebook" [ref=e650] [cursor=pointer]:
+          - /url: https://www.facebook.com/ncbi.nlm
+          - img [ref=e651]
+          - generic [ref=e652]: NCBI on Facebook
+        - link "NCBI on LinkedIn" [ref=e653] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/ncbinlm
+          - img [ref=e654]
+          - generic [ref=e655]: NCBI on LinkedIn
+        - link "NCBI on GitHub" [ref=e656] [cursor=pointer]:
+          - /url: https://github.com/ncbi
+          - img [ref=e657]
+          - generic [ref=e658]: NCBI on GitHub
+        - link "NCBI RSS feed" [ref=e659] [cursor=pointer]:
+          - /url: https://ncbiinsights.ncbi.nlm.nih.gov/
+          - img [ref=e660]
+          - generic [ref=e661]: NCBI RSS feed
+    - generic [ref=e662]:
+      - generic [ref=e663]:
+        - generic [ref=e664]:
+          - paragraph [ref=e665]: Connect with NLM
+          - generic [ref=e666]:
+            - link "NLM on X (formerly known as Twitter)" [ref=e667] [cursor=pointer]:
+              - /url: https://twitter.com/nlm_nih
+            - link "NLM on Facebook" [ref=e670] [cursor=pointer]:
+              - /url: https://www.facebook.com/nationallibraryofmedicine
+            - link "NLM on YouTube" [ref=e673] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/NLMNIH
+        - paragraph [ref=e678]:
+          - link "External, opens in a new tab. National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894" [ref=e679] [cursor=pointer]:
+            - /url: "https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,\n            -77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!\n            4d-77.0988323"
+            - text: External, opens in a new tab. National Library of Medicine
+            - text: 8600 Rockville Pike
+            - text: Bethesda, MD 20894
+        - list [ref=e680]:
+          - listitem [ref=e681]:
+            - link "Web Policies" [ref=e682] [cursor=pointer]:
+              - /url: https://www.nlm.nih.gov/web_policies.html
+          - listitem [ref=e683]:
+            - link "FOIA" [ref=e684] [cursor=pointer]:
+              - /url: https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office
+          - listitem [ref=e685]:
+            - link "External, opens in a new tab. HHS Vulnerability Disclosure" [ref=e686] [cursor=pointer]:
+              - /url: https://www.hhs.gov/vulnerability-disclosure-policy/index.html
+        - list [ref=e687]:
+          - listitem [ref=e688]:
+            - link "Help" [ref=e689] [cursor=pointer]:
+              - /url: https://support.nlm.nih.gov/?pagename=cloudpmc-viewer%3Apmc%3Aarticle%3Ajournal
+          - listitem [ref=e690]:
+            - link "Accessibility" [ref=e691] [cursor=pointer]:
+              - /url: https://www.nlm.nih.gov/accessibility.html
+          - listitem [ref=e692]:
+            - link "Careers" [ref=e693] [cursor=pointer]:
+              - /url: https://www.nlm.nih.gov/careers/careers.html
+      - list [ref=e695]:
+        - listitem [ref=e696]:
+          - link "NLM" [ref=e697] [cursor=pointer]:
+            - /url: https://www.nlm.nih.gov/
+        - listitem [ref=e698]:
+          - link "NIH" [ref=e699] [cursor=pointer]:
+            - /url: https://www.nih.gov/
+        - listitem [ref=e700]:
+          - link "External, opens in a new tab. HHS" [ref=e701] [cursor=pointer]:
+            - /url: https://www.hhs.gov/
+        - listitem [ref=e702]:
+          - link "External, opens in a new tab. USA.gov" [ref=e703] [cursor=pointer]:
+            - /url: https://www.usa.gov/
+  - button "Tell us what you think!" [ref=e704] [cursor=pointer]:
+    - img "Tell us what you think!" [ref=e705]

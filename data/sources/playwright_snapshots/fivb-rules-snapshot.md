@@ -1,0 +1,69 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "FIVB" [ref=e6] [cursor=pointer]:
+      - /url: /
+      - img "FIVB" [ref=e7]
+    - generic [ref=e8]:
+      - generic [ref=e10]: MENU
+      - list [ref=e12]
+    - generic [ref=e318]:
+      - link [ref=e319] [cursor=pointer]:
+        - /url: https://www.facebook.com/VolleyballWorld
+      - link [ref=e322] [cursor=pointer]:
+        - /url: https://twitter.com/fivbvolleyball
+      - link [ref=e325] [cursor=pointer]:
+        - /url: http://www.instagram.com/volleyballworld
+      - link [ref=e328] [cursor=pointer]:
+        - /url: https://www.linkedin.com/company/9264206/admin/feed/posts/
+      - link [ref=e331] [cursor=pointer]:
+        - /url: https://www.youtube.com/volleyballworld
+  - banner [ref=e334]:
+    - generic [ref=e336]:
+      - list [ref=e338]
+      - generic [ref=e345]
+    - search [ref=e379]:
+      - textbox "Search…" [ref=e380]
+      - button [ref=e381] [cursor=pointer]
+    - generic [ref=e384]:
+      - link [ref=e385] [cursor=pointer]:
+        - /url: https://www.fivb.com
+      - list [ref=e390]
+  - generic [ref=e407]:
+    - generic [ref=e409]:
+      - list [ref=e412]
+      - heading "Official Volleyball Rules" [level=1] [ref=e439]
+      - list [ref=e442]
+    - article [ref=e449]:
+      - generic [ref=e451]
+  - generic [ref=e670]:
+    - heading "FIVB Global Partners" [level=3] [ref=e673]
+    - generic [ref=e680]:
+      - link "mikasa-v3" [ref=e682] [cursor=pointer]:
+        - /url: https://mikasasports.co.jp/e/
+      - link "1xBet_Logo_rgb_new_v3" [ref=e685] [cursor=pointer]:
+        - /url: https://cropped.link/1XFIVBweb
+      - link "Image 1" [ref=e688] [cursor=pointer]:
+        - /url: https://www.ganten.com.cn/
+  - generic [ref=e695]:
+    - heading "FIVB Official Suppliers" [level=3] [ref=e698]
+    - generic [ref=e701]:
+      - link "logo" [ref=e703] [cursor=pointer]:
+        - /url: http://www.gerflor.com/
+      - link "mizuno" [ref=e706] [cursor=pointer]:
+        - /url: http://www.mizuno.com/
+      - link "senoh" [ref=e709] [cursor=pointer]:
+        - /url: http://www.senoh.jp/english/
+  - contentinfo [ref=e711]:
+    - generic [ref=e712]:
+      - generic [ref=e715]
+      - generic [ref=e740]
+      - generic [ref=e845]
+    - generic [ref=e855]:
+      - paragraph [ref=e856]: Copyright© 2026 FIVB. All rights reserved.
+      - list [ref=e858]
+  - generic:
+    - generic:
+      - generic [ref=e869]
+      - button [ref=e863] [cursor=pointer]
+  - generic:
+    - img

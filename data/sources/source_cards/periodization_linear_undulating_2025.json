@@ -1,0 +1,31 @@
+{
+  "source_id": "periodization_linear_undulating_2025",
+  "title": "Comparison of linear and undulating periodization resistance training on athletic capacities and health promotion: a systematic review and meta-analysis",
+  "version": "2025 systematic review/meta-analysis",
+  "organization_or_publication": "Frontiers / PMC",
+  "source_type": "academic_open_access_article",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12999919/"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted_with_intermittent_recaptcha_risk",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Comparison of linear and undulating periodization resistance training on athletic capacities and health promotion: a systematic review and meta-analysis - PMC"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/pmc12999919-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Abstract",
+    "Introduction",
+    "Results",
+    "Conclusion"
+  ],
+  "notes": "Usado para comparar LP y UP con cautela: efectos similares en capacidad atletica en los estudios incluidos."
+}

@@ -1,0 +1,33 @@
+{
+  "source_id": "periodization_resistance_mini_review_2019",
+  "title": "Periodized Resistance Training for Enhancing Skeletal Muscle Hypertrophy and Strength: A Mini-Review",
+  "version": "2019 article",
+  "organization_or_publication": "Frontiers in Physiology / PMC",
+  "source_type": "academic_open_access_article",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6351492/",
+    "https://doi.org/10.3389/fphys.2019.00013"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Periodized Resistance Training for Enhancing Skeletal Muscle Hypertrophy and Strength: A Mini-Review - PMC"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/pmc6351492-periodization-snapshot.md",
+      "data/sources/playwright_snapshots/pmc6351492-article-deep.md"
+    ]
+  },
+  "relevant_sections": [
+    "An Overview of Periodization",
+    "Defining Periodization",
+    "Periodization Models",
+    "Limitations and Directions for Future Research"
+  ],
+  "notes": "Usado para ciclos macro/meso/micro, modelos lineal/ondulante, taper y limitaciones."
+}

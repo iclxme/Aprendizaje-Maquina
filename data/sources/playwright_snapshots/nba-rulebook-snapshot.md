@@ -1,0 +1,28 @@
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - banner [ref=e7]
+      - navigation [ref=e11]
+  - main [ref=e36]:
+    - generic [ref=e38]:
+      - link "Rulebook Home" [ref=e39] [cursor=pointer]:
+        - /url: https://official.nba.com/rulebook/
+      - text: "> NBA Rulebook"
+    - generic [ref=e40]:
+      - generic [ref=e41]
+      - heading "NBA Rulebook" [level=1] [ref=e82]
+  - navigation [ref=e84]:
+    - generic [ref=e85]:
+      - list [ref=e87]
+      - list [ref=e101]
+      - list [ref=e113]
+  - contentinfo [ref=e122]:
+    - generic [ref=e123]:
+      - paragraph [ref=e124]: Copyright © 2026 NBA Media Ventures, LLC. All rights reserved. No portion of NBA.com may be duplicated, redistributed or manipulated in any form.
+      - paragraph [ref=e125]
+  - region "Cookie banner" [active] [ref=e129]:
+    - dialog "We Care About Your Privacy" [ref=e130]:
+      - generic [ref=e132]
+      - button "Close" [ref=e148] [cursor=pointer]

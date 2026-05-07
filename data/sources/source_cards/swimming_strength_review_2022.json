@@ -1,0 +1,34 @@
+{
+  "source_id": "swimming_strength_review_2022",
+  "title": "Effect of Different Types of Strength Training on Swimming Performance in Competitive Swimmers: A Systematic Review",
+  "version": "2022 systematic review",
+  "organization_or_publication": "Sports Medicine - Open / PMC",
+  "source_type": "academic_open_access_article",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8804114/",
+    "https://doi.org/10.1186/s40798-022-00410-5"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "Effect of Different Types of Strength Training on Swimming Performance in Competitive Swimmers: A Systematic Review - PMC"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/pmc8804114-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Abstract",
+    "Introduction",
+    "General Findings",
+    "In-water resistance training",
+    "Dry-land swim-like resistance training",
+    "Non-specific dry-land strength training"
+  ],
+  "notes": "Usado para metodos de fuerza/resistencia en nadadores y cautela sobre transferencia."
+}

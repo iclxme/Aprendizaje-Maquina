@@ -1,0 +1,30 @@
+{
+  "source_id": "sprint_training_development_2019",
+  "title": "The Training and Development of Elite Sprint Performance: an Integration of Scientific and Best Practice Literature",
+  "version": "2019 review",
+  "organization_or_publication": "Sports Medicine - Open / PMC",
+  "source_type": "academic_open_access_article",
+  "language": [
+    "en"
+  ],
+  "canonical_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6872694/"
+  ],
+  "consulted_at": "2026-05-06 America/Santiago",
+  "access_status": "accepted",
+  "playwright_verification": {
+    "tool": "mcp__playwright__",
+    "observed_titles": [
+      "The Training and Development of Elite Sprint Performance: an Integration of Scientific and Best Practice Literature - PMC"
+    ],
+    "snapshots": [
+      "data/sources/playwright_snapshots/pmc6872694-sprint-snapshot.md"
+    ]
+  },
+  "relevant_sections": [
+    "Sprint Performance Determinants",
+    "Training methods",
+    "Recovery and periodization discussion"
+  ],
+  "notes": "Fallback principal abierto para determinantes y entrenamiento de sprint."
+}

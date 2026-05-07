@@ -1,0 +1,28 @@
+{
+  "registry_version": "1.0",
+  "domain": "Sports and Athletic Performance",
+  "consulted_at": "2026-05-06 America/Santiago",
+  "source_cards_dir": "data/sources/source_cards",
+  "sources": [
+    {"source_id": "ifab_laws_2025_26", "card": "data/sources/source_cards/ifab_laws_2025_26.json", "areas": ["football_association"], "status": "accepted"},
+    {"source_id": "nba_rulebook_2025_26", "card": "data/sources/source_cards/nba_rulebook_2025_26.json", "areas": ["basketball_nba"], "status": "accepted"},
+    {"source_id": "itf_rules_tennis_2026", "card": "data/sources/source_cards/itf_rules_tennis_2026.json", "areas": ["tennis"], "status": "accepted"},
+    {"source_id": "fivb_rules_2025_2028", "card": "data/sources/source_cards/fivb_rules_2025_2028.json", "areas": ["volleyball_libero"], "status": "accepted"},
+    {"source_id": "periodization_trustworthy_2017", "card": "data/sources/source_cards/periodization_trustworthy_2017.json", "areas": ["training_periodization"], "status": "accepted_with_intermittent_recaptcha_risk"},
+    {"source_id": "periodization_linear_undulating_2025", "card": "data/sources/source_cards/periodization_linear_undulating_2025.json", "areas": ["training_periodization"], "status": "accepted_with_intermittent_recaptcha_risk"},
+    {"source_id": "periodization_resistance_mini_review_2019", "card": "data/sources/source_cards/periodization_resistance_mini_review_2019.json", "areas": ["training_periodization"], "status": "accepted"},
+    {"source_id": "periodization_integrated_pubmed_2018", "card": "data/sources/source_cards/periodization_integrated_pubmed_2018.json", "areas": ["training_periodization"], "status": "partial_abstract_indexed"},
+    {"source_id": "endurance_skeletal_muscle_2021", "card": "data/sources/source_cards/endurance_skeletal_muscle_2021.json", "areas": ["exercise_physiology_vo2max"], "status": "accepted_with_intermittent_recaptcha_risk"},
+    {"source_id": "vo2max_measurement_2013", "card": "data/sources/source_cards/vo2max_measurement_2013.json", "areas": ["exercise_physiology_vo2max"], "status": "accepted_with_intermittent_recaptcha_risk"},
+    {"source_id": "anaerobic_threshold_2004", "card": "data/sources/source_cards/anaerobic_threshold_2004.json", "areas": ["exercise_physiology_vo2max"], "status": "accepted"},
+    {"source_id": "sage_science_of_speed_2011_blocked", "card": "data/sources/source_cards/sage_science_of_speed_2011_blocked.json", "areas": ["sprint_100m"], "status": "blocked_cloudflare_or_browser_check"},
+    {"source_id": "sprint_training_development_2019", "card": "data/sources/source_cards/sprint_training_development_2019.json", "areas": ["sprint_100m"], "status": "accepted"},
+    {"source_id": "sprint_acceleration_2015", "card": "data/sources/source_cards/sprint_acceleration_2015.json", "areas": ["sprint_100m"], "status": "accepted"},
+    {"source_id": "swimming_strength_review_2022", "card": "data/sources/source_cards/swimming_strength_review_2022.json", "areas": ["swimming_competitive_muscular_endurance"], "status": "accepted"}
+  ],
+  "blocked_or_partial_sources": [
+    "sage_science_of_speed_2011_blocked",
+    "periodization_integrated_pubmed_2018"
+  ],
+  "notes": "Todas las fuentes principales fueron verificadas con mcp__playwright__. Las fuentes PMC pueden presentar reCAPTCHA en algunas rutas indexadas; cuando Playwright cargo contenido, se aceptaron con nota de riesgo."
+}
