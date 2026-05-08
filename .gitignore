@@ -1,4 +1,5 @@
 planificacion/
+.vscode/
 
 .env
 .venv/
