@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SportBot</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <button id="new-chat" class="secondary-action" type="button">Nuevo chat</button>
+        <div class="brand" aria-label="SportBot">
+          <span>SportBot</span>
+        </div>
+      </header>
+
+      <section class="chat-view" aria-label="Chat deportivo">
+        <div id="empty-state" class="empty-state">
+          <img src="/static/Chatbot.png" alt="" class="hero-logo" />
+          <p>Haz una pregunta sobre reglas deportivas, entrenamiento o rendimiento atletico.</p>
+        </div>
+
+        <ol id="messages" class="messages" aria-live="polite"></ol>
+      </section>
+
+      <form id="composer" class="composer" autocomplete="off">
+        <label class="sr-only" for="input">Pregunta</label>
+        <textarea
+          id="input"
+          class="input"
+          rows="1"
+          maxlength="1000"
+          placeholder="Escribe tu pregunta..."
+          required
+        ></textarea>
+        <button id="send" class="send" type="submit">Enviar</button>
+      </form>
+    </main>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

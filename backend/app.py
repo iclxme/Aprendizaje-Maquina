@@ -1,10 +1,17 @@
+from pathlib import Path
+
 from fastapi import FastAPI, HTTPException
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from backend.chatbot import SportsChatbot
 from backend.config import get_settings
 from backend.ollama_client import OllamaClient
 from backend.rag import Retriever
+
+ROOT_DIR = Path(__file__).resolve().parent.parent
+FRONTEND_DIR = ROOT_DIR / "frontend"
 
 app = FastAPI(title="Chatbot Deportes", version="0.1.0")
 
@@ -34,12 +41,17 @@ class ChatResponse(BaseModel):
     sources: list[SourceResponse]
 
 
-@app.get("/health")
+@app.get("/")
+async def frontend() -> FileResponse:
+    return FileResponse(FRONTEND_DIR / "index.html")
+
+
+@app.get("/api/health")
 async def health() -> dict[str, str]:
     return {"status": "ok"}
 
 
-@app.post("/chat")
+@app.post("/api/chat")
 async def chat(request: ChatRequest) -> ChatResponse:
     try:
         chatbot_answer = await chatbot.answer(request.question)
@@ -66,3 +78,6 @@ def run() -> None:
     import uvicorn
 
     uvicorn.run("backend.app:app", host="127.0.0.1", port=8000, reload=True)
+
+
+app.mount("/static", StaticFiles(directory=FRONTEND_DIR), name="static")
