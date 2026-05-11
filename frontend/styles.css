@@ -150,6 +150,7 @@ textarea {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--surface);
+  color: var(--text);
   box-shadow: var(--shadow);
   line-height: 1.52;
   white-space: pre-wrap;

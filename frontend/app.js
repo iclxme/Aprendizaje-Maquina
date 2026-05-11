@@ -93,8 +93,15 @@ async function sendQuestion(question) {
     });
 
     if (!response.ok) {
-      const detail = await response.text();
-      throw new Error(detail || "No se pudo obtener respuesta del backend.");
+      const errorText = await response.text();
+      let detail = errorText || "No se pudo obtener respuesta del backend.";
+      try {
+        const errorBody = JSON.parse(errorText);
+        detail = errorBody.detail || detail;
+      } catch {
+        // Keep the plain text body when the backend does not return JSON.
+      }
+      throw new Error(detail);
     }
 
     const body = await response.json();
@@ -105,8 +112,7 @@ async function sendQuestion(question) {
     }
   } catch (error) {
     pendingBubble.parentElement.classList.add("error");
-    pendingBubble.textContent =
-      "No pude conectar con el backend. Revisa que FastAPI, Ollama y la base RAG esten disponibles.";
+    pendingBubble.textContent = `No pude completar la respuesta. ${error.message}`;
   } finally {
     setLoading(false);
     input.focus();
