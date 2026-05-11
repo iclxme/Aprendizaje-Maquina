@@ -16,3 +16,5 @@ http://127.0.0.1:8000/
 ```
 
 Ollama debe estar corriendo con los modelos definidos en `.env`.
+
+VIDEO DE CHATBOT (ANÁLISIS DE DESEMPEÑO): https://youtu.be/JAtAZ0n1Ug8
